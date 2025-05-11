@@ -1,0 +1,5 @@
+{
+  "_comentario": "Diccionario de nombre de aplicación a ruta de ejecutable. Ejemplo: 'valorant': 'C:/Riot Games/VALORANT/live/VALORANT.exe'",
+  "valorant": "c:\\programdata\\microsoft\\windows\\start menu\\programs\\riot games\\valorant.lnk",
+  "opera": "c:\\users\\santi\\appdata\\roaming\\microsoft\\windows\\start menu\\programs\\navegador opera gx.lnk"
+}

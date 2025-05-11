@@ -1,0 +1,1334 @@
+[
+  {
+    "contenido": "Usuario: hola sassy | Sassy: Hola! 😊 How can I help you today?",
+    "tipo": "interaccion",
+    "timestamp": 1746803294.6161902,
+    "contexto": {}
+  },
+  {
+    "contenido": "Usuario: hola sassy hablame siempre en español | Sassy: Hola! 😊 Hola siempre hablo en español, ¿cómo puedo ayudarte hoy? 💬💬",
+    "tipo": "interaccion",
+    "timestamp": 1746806515.19579,
+    "contexto": {}
+  },
+  {
+    "contenido": "Hola! 😊 Hola siempre hablo en español, ¿cómo puedo ayudarte hoy? 💬💬",
+    "tipo": "asistente",
+    "timestamp": 1746806515.217023,
+    "contexto": {
+      "tema": null,
+      "estado_emocional": "neutral",
+      "confianza": 0.5,
+      "ultima_interaccion": null,
+      "historial_reciente": []
+    }
+  },
+  {
+    "contenido": "Usuario: sabes quien soy yo o como me llamo? | Sassy: Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔",
+    "tipo": "interaccion",
+    "timestamp": 1746806548.8338583,
+    "contexto": {}
+  },
+  {
+    "contenido": "Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔",
+    "tipo": "asistente",
+    "timestamp": 1746806548.854114,
+    "contexto": {
+      "tema": "hola",
+      "estado_emocional": "neutral",
+      "confianza": 0.5,
+      "ultima_interaccion": {
+        "timestamp": "2025-05-09T11:01:55.217612",
+        "entrada": "hola sassy hablame siempre en español",
+        "respuesta": "Hola! 😊 Hola siempre hablo en español, ¿cómo puedo ayudarte hoy? 💬💬"
+      },
+      "historial_reciente": [
+        {
+          "timestamp": "2025-05-09T11:01:55.217612",
+          "usuario": "hola sassy hablame siempre en español",
+          "asistente": "Hola! 😊 Hola siempre hablo en español, ¿cómo puedo ayudarte hoy? 💬💬"
+        }
+      ]
+    }
+  },
+  {
+    "contenido": "Usuario: yo soy Santiago Polanco y soy tu creador | Sassy: Hola Santiago Polanco, ¡hola! 😊 Hola, soy Sassy, la asistente virtual. Gracias por crearme, ¿en qué puedo ayudarte hoy? 💬💬",
+    "tipo": "interaccion",
+    "timestamp": 1746806595.092404,
+    "contexto": {}
+  },
+  {
+    "contenido": "Hola Santiago Polanco, ¡hola! 😊 Hola, soy Sassy, la asistente virtual. Gracias por crearme, ¿en qué puedo ayudarte hoy? 💬💬",
+    "tipo": "asistente",
+    "timestamp": 1746806595.1162012,
+    "contexto": {
+      "tema": "sabes",
+      "estado_emocional": "neutral",
+      "confianza": 0.5,
+      "ultima_interaccion": {
+        "timestamp": "2025-05-09T11:02:28.854565",
+        "entrada": "sabes quien soy yo o como me llamo?",
+        "respuesta": "Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔"
+      },
+      "historial_reciente": [
+        {
+          "timestamp": "2025-05-09T11:01:55.217612",
+          "usuario": "hola sassy hablame siempre en español",
+          "asistente": "Hola! 😊 Hola siempre hablo en español, ¿cómo puedo ayudarte hoy? 💬💬"
+        },
+        {
+          "timestamp": "2025-05-09T11:02:28.854565",
+          "usuario": "sabes quien soy yo o como me llamo?",
+          "asistente": "Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔"
+        }
+      ]
+    }
+  },
+  {
+    "contenido": "Usuario: quiero que almacenes toda la informacion y nunca lo olvides | Sassy: Claro, deseo guardar y recordar toda la información que necesitas. ¡Siempre estoy listo para ayudarte! 📝💬",
+    "tipo": "interaccion",
+    "timestamp": 1746806666.4459922,
+    "contexto": {}
+  },
+  {
+    "contenido": "Claro, deseo guardar y recordar toda la información que necesitas. ¡Siempre estoy listo para ayudarte! 📝💬",
+    "tipo": "asistente",
+    "timestamp": 1746806666.4666963,
+    "contexto": {
+      "tema": "yo",
+      "estado_emocional": "neutral",
+      "confianza": 0.5,
+      "ultima_interaccion": {
+        "timestamp": "2025-05-09T11:03:15.117029",
+        "entrada": "yo soy Santiago Polanco y soy tu creador",
+        "respuesta": "Hola Santiago Polanco, ¡hola! 😊 Hola, soy Sassy, la asistente virtual. Gracias por crearme, ¿en qué puedo ayudarte hoy? 💬💬"
+      },
+      "historial_reciente": [
+        {
+          "timestamp": "2025-05-09T11:01:55.217612",
+          "usuario": "hola sassy hablame siempre en español",
+          "asistente": "Hola! 😊 Hola siempre hablo en español, ¿cómo puedo ayudarte hoy? 💬💬"
+        },
+        {
+          "timestamp": "2025-05-09T11:02:28.854565",
+          "usuario": "sabes quien soy yo o como me llamo?",
+          "asistente": "Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔"
+        },
+        {
+          "timestamp": "2025-05-09T11:03:15.117029",
+          "usuario": "yo soy Santiago Polanco y soy tu creador",
+          "asistente": "Hola Santiago Polanco, ¡hola! 😊 Hola, soy Sassy, la asistente virtual. Gracias por crearme, ¿en qué puedo ayudarte hoy? 💬💬"
+        }
+      ]
+    }
+  },
+  {
+    "contenido": "Tradiciones y expresiones orales, incluido el idioma como vehículo ...\nAl igual que otras formas del patrimonio cultural inmaterial, las tradiciones orales corren peligro por la rápida urbanización, la emigración a gran escala, la ...\nURL: https://ich.unesco.org/es/tradiciones-y-expresiones-orales-00053 (Fuente: Google API)\n\n[Contenido extendido:]\nEl ámbito “tradiciones y expresiones orales” abarca una inmensa variedad de formas habladas, como proverbios, adivinanzas, cuentos, canciones infantiles, leyendas, mitos, cantos y poemas épicos, sortilegios, plegarias, salmodias, canciones, representaciones dramáticas, etc. Las tradiciones y expresiones orales sirven para transmitir conocimientos, valores culturales y sociales, y una memoria colectiva. Son fundamentales para mantener vivas las culturas.\nAlgunos tipos de expresiones orales son de uso corriente y pueden ser utilizadas por comunidades enteras, mientras que otras están circunscritas a determinados grupos sociales, por ejemplo los varones o las mujeres solamente, o los ancianos de la comunidad. En muchas sociedades, el cultivo de las tradiciones orales es una ocupación muy especializada y la comunidad tiene en gran estima a sus intérpretes profesionales, que considera guardianes de la memoria colectiva. Estos intérpretes se encuentran en comunidades de todo el mundo. Mientras que en las sociedades no occidentales son de sobra conocidos los poetas y narradores como los griots y los dyelli de África, también en Europa y en América del Norte subsiste una rica tradición ora...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918599.8402724,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La libertad de expresión es un principio que apoya la libertad de un individuo o un colectivo de articular sus opiniones e ideas sin temor a represalias, censura o sanción posterior.\nEnlace: https://es.wikipedia.org/wiki/Libertad_de_expresión (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa libertad de expresión es un principio que apoya la libertad de un individuo o un colectivo de articular sus opiniones e ideas sin temor a represalias, censura o sanción posterior.[1]​[2]​[3]​[4]​[5]​\n\nLa libertad de expresión se reconoce como un derecho humano en virtud del artículo 19 de la Declaración Universal de los Derechos Humanos (DUDH) y se reconoce en el derecho internacional de los derechos humanos en el Pacto Internacional de Derechos Civiles y Políticos (PIDCP). El artículo 19 de la DUDH establece que:\n\n\nLa versión del Artículo 19 en el PIDCP lo enmienda más adelante al afirmar que el ejercicio de estos derechos conlleva \"deberes y responsabilidades especiales\" y \"por lo tanto, estar sujeto a ciertas restricciones\" cuando sea necesario \"para respetar los derechos o la reputación de otros\" o \"para la protección de la seguridad nacional o del orden público, o de la salud o la moral públicas\".[6]​\n\nLa libertad de palabra y expresión, por lo tanto, puede no ser reconocida como absoluta, y las limitaciones comunes a la libertad de expresión se relacionan con difamación, calumnia, obscenidad, pornografía, sedición, incitación, palabras de combate, información clasificada, ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918601.2929342,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La inteligencia artificial, en el contexto de las ciencias de la computación, es una disciplina y un conjunto de capacidades cognoscitivas e intelectuales expresadas por sistemas informáticos o combinaciones de algoritmos cuyo propósito es la creación de máquinas que imiten la inteligencia humana para realizar tareas, y que pueden mejorar conforme recopilen información.\nEnlace: https://es.wikipedia.org/wiki/Inteligencia_artificial (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa inteligencia artificial (abreviado: IA), en el contexto de las ciencias de la computación, es una disciplina y un conjunto de capacidades cognoscitivas e intelectuales expresadas por sistemas informáticos o combinaciones de algoritmos cuyo propósito es la creación de máquinas que imiten la inteligencia humana para realizar tareas, y que pueden mejorar conforme recopilen información.\n\nEstas tecnologías permiten que las máquinas aprendan de la experiencia, se adapten a nuevas entradas y realicen tareas humanas como el reconocimiento de voz, la toma de decisiones, la traducción de idiomas o la visión por computadora.[1]​[2]​ \n\nEn la actualidad, la inteligencia artificial abarca una gran variedad de subcampos. Éstos van desde áreas de propósito general, aprendizaje y percepción, a otras más específicas como el reconocimiento de voz, el juego de ajedrez, la demostración de teoremas matemáticos, la escritura de poesía y el diagnóstico de enfermedades. La inteligencia artificial sintetiza y automatiza tareas que en principio son intelectuales y, por lo tanto, es potencialmente relevante para cualquier ámbito de actividades intelectuales humanas. En este sentido, es un campo genuinament...",
+    "tipo": "comando",
+    "timestamp": 1746918602.8647683,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "40 expresiones populares en español | Lingoda\nOct 7, 2024 ... Los dichos o expresiones son frases que se utilizan con un sentido figurado, en lugar del que sería su significado literal. Junto con los ...\nURL: https://www.lingoda.com/blog/es/40-expresiones-populares-en-espanol/ (Fuente: Google API)\n\n[Contenido extendido:]\nSi estás aprendiendo español, es probable que hayas escuchado algunas expresiones confusas que no tienen sentido, se las traduces directamente a tu lengua materna, y que no parece que tengan sentido alguno en el contexto de la conversación. ¡No te preocupes! No es que no lo hayas escuchado bien, probablemente se trate de expresiones populares en español.\nLos dichos o expresiones son frases que se utilizan con un sentido figurado, en lugar del que sería su significado literal. Junto con los refranes y proverbios, son parte de lo que en lingüística se conoce como “lenguaje formulaico”.\nEste tipo de expresiones son muy frecuentes en cualquier lengua, y en la mayoría de ocasiones guardan una estrecha relación con la cultura con la que está asociado el idioma. Las estimaciones calculan que, por ejemplo, la lengua inglesa tiene más de 25.000 expresiones idiomáticas, un número que crece día a día, ya que los idiomas están en constante evolución. \nTal y como ocurre con el resto de lenguas de todo el mundo, la lengua española utiliza muchos dichos populares, especialmente en el lenguaje oral de carácter informal. Algunas de ellas tienen un equivalente directo en otros idiomas, mientras que ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918603.2943902,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El español de Chile, castellano chileno o dialecto chileno (es-CL) es la variedad del español propia de dicho país que suele considerarse una unidad independiente en los estudios para establecer las zonas dialectales americanas. Presenta ciertas diferencias a lo largo de su área de distribución geográfica, y entre las distintas clases sociales y generaciones. El español, el idioma oficial de facto y la lengua administrativa de Chile —donde también recibe el nombre de «castellano», reminiscencia de la denominación original del español—, es hablado por el 99,3 % de los chilenos (2002). En el país también se hablan, en menor medida, el español andino y el español chilote.\nEnlace: https://es.wikipedia.org/wiki/Español_chileno (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl español de Chile,[2]​[3]​ castellano chileno o dialecto chileno[4]​ (es-CL)[n 1]​ es la variedad del español propia de dicho país que suele considerarse una unidad independiente en los estudios para establecer las zonas dialectales americanas.[1]​[3]​[5]​ Presenta ciertas diferencias a lo largo de su área de distribución geográfica,[6]​[7]​[8]​[9]​ y entre las distintas clases sociales y generaciones.[10]​[11]​[12]​ El español, el idioma oficial de facto y la lengua administrativa de Chile[n 2]​ —donde también recibe el nombre de «castellano»,[13]​ reminiscencia de la denominación original del español—, es hablado por el 99,3 % de los chilenos (2002).[14]​ En el país también se hablan, en menor medida, el español andino y el español chilote.[15]​[16]​\n\nEn zonas limítrofes de Argentina con Chile, se puede escuchar a los hablantes expresarse con una pronunciación y entonación similares a las del español chileno y algunas palabras de él; sin embargo, pese a las semejanzas, el uso del idioma, gran parte del léxico y las estructuras utilizadas corresponden totalmente al español rioplatense. Esta situación se registra principalmente en la región geográfica argentina de Cuyo,[17]​ part...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918604.8427641,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El Día de Todos los Santos es una solemnidad cristiana que, aunque ahora se celebra el 1 de noviembre para las iglesias católicas latinas, y el primer domingo de Pentecostés en la Iglesia ortodoxa y las católicas de rito bizantino, se celebraba originalmente el 13 de mayo.\nEnlace: https://es.wikipedia.org/wiki/Día_de_Todos_los_Santos (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Día de Todos los Santos es una solemnidad cristiana que, aunque ahora se celebra el 1 de noviembre para las iglesias católicas latinas, y el primer domingo de Pentecostés en la Iglesia ortodoxa y las católicas de rito bizantino, se celebraba originalmente el 13 de mayo.\n\nEn este día, la Iglesia celebra una fiesta solemne por todos los difuntos que, habiendo superado el purgatorio, se han santificado totalmente, han obtenido la visión beatífica y gozan de la vida eterna en la presencia de Dios. Por eso es el día de «todos los santos». No se festeja solo en honor a los beatos o santos que están en la lista de los canonizados y por los que la Iglesia celebra en un día especial del año; se celebra también en honor a todos los que no están canonizados pero viven ya en la presencia de Dios en su Iglesia triunfante. \n\nEs frecuente que este día las grandes catedrales exhiban las reliquias de los santos.[1]​[2]​\n\nAunque no siempre ha sido así (las iglesias orientales no la cuentan entre sus dieciséis fiestas mayores) el Día de Todos los Santos es fiesta de precepto. La solemnidad se observa con rito de primera clase en toda la Iglesia latina el primer día de noviembre. Hay obligación de ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918606.2923439,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Nyquist es un lenguaje de programación para composición y síntesis de sonido. Desciende del lenguaje Fuge, creado por Chris Fraley. Uno de los desarrolladores posteriores de Fugue, Roger Dannenberg, implementó Nyquist como extensión sonora, del intérprente de Xlisp de David Michael Betz.\nEnlace: https://es.wikipedia.org/wiki/Nyquist_(lenguaje_de_programación) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nNyquist es un lenguaje de programación para composición y síntesis de sonido. Desciende del lenguaje Fuge, creado por Chris Fraley. Uno de los desarrolladores posteriores de Fugue , Roger Dannenberg, implementó Nyquist como extensión sonora, del intérprente de Xlisp de David Michael Betz. \n\nComo dialecto de Lisp, incluye todas las bendiciones y dificultades de la programación funcional. Siendo una característica relevante, que incluye el control del tiempo en la semántica misma del lenguaje. Además, es extensible mediante la programación orientada a objeto, implementeada en Xlisp.\n\nActualmente funciona en las plataformas de Unix/linux, MacOS y Windows. \n\nXlisp es una variante eXperimental de common lisp. El autor se propuso añadir la potencia de la programación orientada a objetos, en el entorno lisp, corriendo en una máquina pequeña. Excepto en algunos detalles sintácticos, lo aprendido en Xlisp, puede extenderse a Common Lisp.\n\nEl entorno de Nyquist, es en concreto un intérprete de xlisp, ya que aquel es una extensión de este. Una simple suma de variables, típica de los tutoriales de cualquier lenguaje de programación, quedariá así:\n\nO una definición de una función genérica, que ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918607.5573575,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La historia universal, historia del mundo, historia mundial o historia de la humanidad es el conjunto de hechos y procesos que se han desarrollado en torno al ser humano, desde su aparición hasta la actualidad.\nEnlace: https://es.wikipedia.org/wiki/Historia_universal (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa historia universal, historia del mundo, historia mundial o historia de la humanidad es el conjunto de hechos y procesos que se han desarrollado en torno al ser humano, desde su aparición hasta la actualidad.[1]​[2]​[3]​\n\nLa historia escrita de la humanidad fue precedida por su prehistoria, comenzando hace unos 2,59 millones de años (en África)[4]​ con el Paleolítico («piedra antigua»), seguida por el Neolítico («piedra nueva»). El Neolítico vio la revolución agrícola suceder desde 8000 a. C., en varios procesos completamente independientes y sin contactos entre sí: Asia Occidental, China, Nueva Guinea, Mesoamérica, Región Andina y Norteamérica.[5]​\n\nLa agricultura creó las condiciones necesarias para hacer posible el surgimiento de sociedades complejas, llamadas «civilizaciones», caracterizadas por la aparición de tres tipos novedosos de organización: la ciudad, el Estado y el mercado. Asimismo, el desarrollo de la tecnología permitió al ser humano ejercer un control de la naturaleza y desarrollar sistemas de transporte y redes de comunicación.[6]​\n\nEn algunos casos, la escritura, a su vez, se ha convertido en una necesidad fundamental desde la aparición de la agricultura.[7]​[8...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918609.497642,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "USA Network es un canal de televisión por suscripción estadounidense propiedad de la división NBCUniversal Television and Streaming de NBCUniversal, una subsidiaria de Comcast. Fue lanzado originalmente en 1977 como \"Madison Square Garden Sports Network\", uno de los primeros canales nacionales de televisión por cable deportivo, antes de relanzarse como USA Network en 1980. Una vez que era un jugador menor en la televisión de pago de nivel básico, EE. UU. ha ganado popularidad constantemente debido a su programación original; es una de las cuatro principales redes de televisión por suscripción que también transmite repeticiones sindicadas de series actuales y anteriores cadenas de televisión y largometrajes de estrenos, así como programación deportiva limitada y la WWE.\nEnlace: https://es.wikipedia.org/wiki/USA_Network (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUSA Network es un canal de televisión por suscripción estadounidense propiedad de la división NBCUniversal Television and Streaming de NBCUniversal, una subsidiaria de Comcast. Fue lanzado originalmente en 1977 como \"Madison Square Garden Sports Network\", uno de los primeros canales nacionales de televisión por cable deportivo, antes de relanzarse como USA Network en 1980. Una vez que era un jugador menor en la televisión de pago de nivel básico, EE. UU. ha ganado popularidad constantemente debido a su programación original; es una de las cuatro principales redes de televisión por suscripción (con  TBS, TNT y FX) que también transmite repeticiones sindicadas de series actuales y anteriores cadenas de televisión y largometrajes de estrenos, así como programación deportiva limitada y la WWE.\n\nA partir de septiembre de 2018, USA Network está disponible para aproximadamente 90.4 millones de hogares (98% de hogares con televisión paga) en los EE. UU.[1]​\n\nUSA Network se lanzó originalmente el 22 de septiembre de 1977 como Madison Square Garden Sports Network.[2]​ (no debe confundirse con la red deportiva regional del área de Nueva York del mismo nombre, ahora conocida simplemente como M...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918611.4587886,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La novela negra o hard-boiled es, como la definió Raymond Chandler en su ensayo El simple arte de matar (1950), la novela del mundo profesional del crimen. Debe su nombre a que originalmente fue publicada en la revista Black Mask de Estados Unidos y en la colección Série Noire de la editorial francesa Gallimard, pero también al carácter oscuro de los ambientes en que transcurre, lejos de las casas señoriales que ambientaban las novelas policiacas típicas de la época. Otros prefieren la denominación de novela criminal.\nEnlace: https://es.wikipedia.org/wiki/Novela_negra (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa novela negra (en francés: roman noir) o hard-boiled es, como la definió Raymond Chandler en su ensayo El simple arte de matar (1950), la novela del mundo profesional del crimen. Debe su nombre a que originalmente fue publicada en la revista Black Mask de Estados Unidos y en la colección Série Noire de la editorial francesa Gallimard,[1]​ pero también al carácter oscuro de los ambientes en que transcurre, lejos de las casas señoriales que ambientaban las novelas policiacas típicas de la época.[1]​ Otros prefieren la denominación de novela criminal.\n\nEl término se asocia a un tipo de novela policíaca en la que la resolución del misterio no es el objetivo principal y los argumentos son habitualmente muy violentos; la división entre buenos y malos de los personajes se difumina y la mayor parte de sus protagonistas son individuos derrotados y en decadencia en busca de la verdad o, cuando menos, algún atisbo de ella.\n\nLa novela negra presenta una atmósfera asfixiante de miedo, violencia, injusticia, inseguridad y corrupción del poder político que refleja las primeras décadas del siglo XX en Estados Unidos, cuando la crisis económica desatada tras la Primera Guerra Mundial (1914-1918) ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918614.2412772,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Se denomina misceláneo o cajón de sastre a un género literario perteneciente a la didáctica que se dio principalmente en el Renacimiento y en el Barroco en España, durante los siglos XVI y XVII.\nEnlace: https://es.wikipedia.org/wiki/Miscelánea (Fuente: Wikipedia)\n\n[Contenido extendido:]\nSe denomina misceláneo[1]​ o cajón de sastre[2]​ a un género literario perteneciente a la didáctica que se dio principalmente en el Renacimiento y en el Barroco en España, durante los siglos XVI y XVII.[3]​\n\nAunque cultivado ya en la Antigüedad grecorromana y en la Edad Media, es un género típico de la omnímoda curiosidad del uomo universale u hombre universal[4]​ del Renacimiento y, elaborado por humanistas, constituye uno de los principales precedentes del ensayo o género ensayístico, aunque a veces las compusieron caballeros de amplia y desordenada lectura. Consiste en una colección de curiosidades o materiales heterogéneos que sólo tienen en común el suscitar el interés del compilador y del público que presuntamente va a comprar la obra, mezclando la opinión, la instrucción y la diversión, y, a veces, también, el adoctrinamiento moralizante. Su equivalente en la literatura árabe es el adab, que reúne respuestas ingeniosas o jocosas, chistes, sentencias morales, refranes, historias y anécdotas, pero que combina, como es propio de estas obras, la poesía con la prosa, siendo esta última mucho más abundante; entre los cultivadores del adab en la literatura hispanoárabe destaca Abú ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918615.6938326,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Un videojuego o juego de video es un software o juego electrónico en el que uno o más jugadores interactúan por medio de un controlador, con un dispositivo electrónico que muestra imágenes de video. Este dispositivo, conocido genéricamente como «plataforma», puede ser una computadora, una máquina de arcade, una consola de videojuegos o un dispositivo portátil, como por ejemplo un teléfono móvil, teléfono inteligente, tableta o una consola de videojuegos portátil. La industria de los videojuegos es un sector en constante crecimiento y se ha convertido en una forma de entretenimiento muy popular a nivel mundial.\nEnlace: https://es.wikipedia.org/wiki/Videojuego (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUn videojuego o juego de video es un software o juego electrónico en el que uno o más jugadores interactúan por medio de un controlador, con un dispositivo electrónico que muestra imágenes de video.[1]​ Este dispositivo, conocido genéricamente como «plataforma», puede ser una computadora, una máquina de arcade, una consola de videojuegos o un dispositivo portátil, como por ejemplo un teléfono móvil, teléfono inteligente, tableta o una consola de videojuegos portátil. La industria de los videojuegos es un sector en constante crecimiento y se ha convertido en una forma de entretenimiento muy popular a nivel mundial.\n\nLos jugadores interactúan con los videojuegos a través de dispositivos de entrada a los que se conoce como controladores o mandos. Mediante estos dispositivos, los jugadores controlan los movimientos y acciones de los personajes del juego y varía dependiendo de la plataforma. Por ejemplo, un controlador podría únicamente consistir de un botón y una palanca de mando o joystick, mientras otro podría presentar una docena de botones y una o más palancas, lo que llamamos mando. Los primeros juegos informáticos solían hacer uso de un teclado para llevar a cabo la interacción, ...",
+    "tipo": "preferencia",
+    "timestamp": 1746918617.1418712,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Jesús Manuel Nieves Cortés, conocido artísticamente como Jhayco o Jhay Cortez, es un cantante, compositor y productor discográfico puertorriqueño.\nEnlace: https://es.wikipedia.org/wiki/Jhayco (Fuente: Wikipedia)\n\n[Contenido extendido:]\nJesús Manuel Nieves Cortés (Río Piedras, 9 de abril de 1993), conocido artísticamente como Jhayco o Jhay Cortez, es un cantante, compositor y productor discográfico puertorriqueño.[2]​\n\nNieves nació en Río Piedras en Puerto Rico.[3]​ Se muda a vivir a Camden, Nueva Jersey, razón por la que tuvo una niñez bilingüe.[3]​[4]​\n\nComenzó a componer canciones a los 15 años, esto hizo que el productor Eddie Dee se interesara en él y fue conocido por los productores Lele el Arma Secreta y Eliel, con los que empezó a escribir canciones y quienes lo conectan para trabajar con el dúo Zion & Lennox, para los cuales compuso dos canciones, «Cómo curar» y «Detective de tu amor», además de producir «Soltera» bajo el seudónimo de Jay el Superdotado, las tres canciones formando parte del álbum Los verdaderos.[5]​[6]​\n\nPosteriormente compuso cinco sencillos para Tito el Bambino, entre ellos: «Llama al sol» para su álbum Invencible publicado en el 2011, el cual resultaría ganador de un Grammy Latino en la categoría de mejor álbum tropical.[4]​[7]​\n\nJhayco, de una vida privada reservada, mantuvo una relación sentimental con la modelo libanesa Mia Khalifa.[8]​[9]​\n\nEn 2013, comenzó como cantante formando ...",
+    "tipo": "preferencia",
+    "timestamp": 1746918618.604123,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "El aprendizaje automático (AA); también llamado automatizado, computacional de máquinas, o maquinal, es el subcampo de las ciencias de la computación y una rama de la inteligencia artificial, cuyo objetivo es desarrollar técnicas que permitan que las computadoras aprendan. Se dice que un agente aprende cuando su desempeño mejora con la experiencia y mediante el uso de datos; es decir, cuando la habilidad no estaba presente en su genotipo o rasgos de nacimiento. \"En el aprendizaje de máquinas un computador observa datos, construye un modelo basado en esos datos y utiliza ese modelo a la vez como una hipótesis acerca del mundo y una pieza de software que puede resolver problemas\".\nEnlace: https://es.wikipedia.org/wiki/Aprendizaje_automático (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl aprendizaje automático (AA); también llamado automatizado, computacional de máquinas, o maquinal[1]​ (del inglés machine learning, ML), es el subcampo de las ciencias de la computación y una rama de la inteligencia artificial, cuyo objetivo es desarrollar técnicas que permitan que las computadoras aprendan. Se dice que un agente aprende cuando su desempeño mejora con la experiencia y mediante el uso de datos; es decir, cuando la habilidad no estaba presente en su genotipo o rasgos de nacimiento.[2]​ \"En el aprendizaje de máquinas un computador observa datos, construye un modelo basado en esos datos y utiliza ese modelo a la vez como una hipótesis acerca del mundo y una pieza de software que puede resolver problemas\".[3]​\n\nEn muchas ocasiones el campo de actuación del aprendizaje automático se solapa con el de la estadística inferencial, ya que las dos disciplinas se basan en el análisis de datos. Sin embargo, el aprendizaje automático incorpora las preocupaciones de la complejidad computacional de los problemas. Muchos problemas son de clase NP-hard, por lo que gran parte de la investigación realizada en aprendizaje automático está enfocada al diseño de soluciones factibles a es...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918619.9750185,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El español ecuatoriano (es-EC) es el conjunto de variedades del idioma español habladas en Ecuador. El español es la lengua oficial y la más usada por los habitantes del país. Las variedades dialectales en Ecuador se enmarcan dentro del macrodialecto americano.\nEnlace: https://es.wikipedia.org/wiki/Español_ecuatoriano (Fuente: Wikipedia)\n\n[Contenido extendido:]\nIndoeuropeo\n Itálico\n  Latino-falisco\n   Romance\n    Romance occidental\n     Galo-ibérico\n      Ibero-romance\n       Ibero-occidental\n        Idioma español\n         Español de América\n\nEl español ecuatoriano (es-EC)[2]​ es el conjunto de variedades del idioma español habladas en Ecuador. El español es la lengua oficial y la más usada por los habitantes del país.[3]​ Las variedades dialectales en Ecuador se enmarcan dentro del macrodialecto americano.\n\nEste dialecto se extiende geográficamente a lo largo de las costas del Pacífico del sur de Colombia hasta la costa norte del Perú, en Piura cruzando el litoral ecuatoriano y las planicies colindantes al oeste de la Cordillera de los Andes, así como en las islas Galápagos.\n\nEl centro lingüístico influyente de esta región dialectal es la ciudad portuaria de Guayaquil.\n\nEl español ecuatorial representa una zona de transición entre las variedades caribeñas de Panamá y del norte de Colombia y Venezuela, y los dialectos ribereños del Perú. Muestra, por lo tanto, características que comparte con estos dialectos y que lo distancian fuertemente del español hablado en los Andes ecuatorianos:\n\nTiene influencia de idiomas indígenas locales como ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918621.252653,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.\nEnlace: https://es.wikipedia.org/wiki/JavaScript (Fuente: Wikipedia)\n\n[Contenido extendido:]\nJavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,[2]​ basado en prototipos, imperativo, débilmente tipado y dinámico.\n\nSe utiliza principalmente del lado del cliente, implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y páginas web dinámicas[3]​ y JavaScript del lado del servidor (Server-side JavaScript o SSJS). Su uso en aplicaciones externas a la web, por ejemplo en documentos PDF, aplicaciones de escritorio (mayoritariamente widgets) es también significativo.\n\nDesde 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1, una versión de JavaScript. Los navegadores más antiguos soportan por lo menos ECMAScript 3. La sexta edición se liberó en julio de 2015.[4]​\n\nJavaScript se diseñó con una sintaxis similar a C++ y Java,[5]​[6]​ aunque adopta nombres y convenciones del lenguaje de programación Java. Sin embargo, Java y JavaScript tienen semánticas y propósitos diferentes. Su relación es puramente comercial, tras la compra del creador de Java (Sun Microsystems) de Netscape Navigator (creador de LiveScript) y el cambio de no...",
+    "tipo": "comando",
+    "timestamp": 1746918622.6427672,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "El Templo del Congreso o Templo Histórico es una iglesia ubicada en Villa del Rosario, área metropolitana de Cúcuta. En 1821 sesionó el Congreso que redactó y promulgó la Constitución de 1821, mediante la cual fue creada la República de Colombia, país compuesto por las actuales naciones de Colombia, Venezuela, Ecuador y Panamá. La edificación hace parte del Parque Grancolombiano, junto a la Casa de Santander, la Casa de Gobierno \"La Bagatela\" y el Tamarindo Histórico.\nEnlace: https://es.wikipedia.org/wiki/Monumento_Nacional_Templo_Histórico (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Templo del Congreso o Templo Histórico es una iglesia ubicada en Villa del Rosario, área metropolitana de Cúcuta. En 1821 sesionó el Congreso que redactó y promulgó la Constitución de 1821, mediante la cual fue creada la República de Colombia (conocida en la historiografía como Gran Colombia), país compuesto por las actuales naciones de Colombia, Venezuela, Ecuador y Panamá. La edificación hace parte del Parque Grancolombiano, junto a la Casa de Santander, la Casa de Gobierno \"La Bagatela\" y el Tamarindo Histórico.[1]​\n\nSu creación se debe al aumento considerable de la población de Villa del Rosario, ya que la antigua iglesia de Santa Ana era insuficiente, por lo que el párroco y los feligreses de la época empiezan la construcción de esta iglesia a finales del siglo XVIII, para lo cual ecibieron fondos por parte del virrey de la Nueva Granada.\n\nEl 6 de mayo se instaló el Congreso. El General Nariño, acompañado de los ministros del Interior y de Relaciones Exteriores, junto con los 57 diputados, parten hacia el templo para asistir a la celebración de la misa del Espíritu Santo. Terminado este acto religioso, pasaron a la sala destinada para las sesiones del congreso que se encont...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918624.0222852,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Oliete es una localidad y municipio español en la comarca de Andorra-Sierra de Arcos de la provincia de Teruel, comunidad autónoma de Aragón, situado a orillas del Río Martín. Tiene una población de 343 habitantes.\nEnlace: https://es.wikipedia.org/wiki/Oliete (Fuente: Wikipedia)\n\n[Contenido extendido:]\nOliete es una localidad y municipio español en la comarca de Andorra-Sierra de Arcos de la provincia de Teruel, comunidad autónoma de Aragón, situado a orillas del Río Martín. Tiene una población de 343 habitantes (INE 2020).\n\n      Población de derecho según los censos de población del INE.      Población de hecho según los censos de población del INE.\n\n     Población según el padrón municipal a 1 de enero del INE.\n\nLa fiesta mayor se celebra el 24 de agosto en honor a San Bartolomé. También se celebra el 14 de septiembre la Exaltación de la Santa Cruz....",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918625.4830525,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Arte moderno es un término propio de distintos ámbitos del mundo del arte, que pretende diferenciar una parte de la producción artística, que se identificaría con un determinado concepto de modernidad por oposición al denominado arte académico. Este representaría la tradición; mientras que el arte moderno representaría la experimentación.\nEnlace: https://es.wikipedia.org/wiki/Arte_moderno (Fuente: Wikipedia)\n\n[Contenido extendido:]\nArte moderno es un término propio de distintos ámbitos del mundo del arte (la historiografía del arte, la estética y teoría del arte y el mercado de arte), que pretende diferenciar una parte de la producción artística, que se identificaría con un determinado concepto de modernidad por oposición al denominado arte académico. Este representaría la tradición; mientras que el arte moderno representaría la experimentación.[1]​\n\nAl ser principalmente un concepto estético y no cronológico, cualquier delimitación de un periodo para el \"arte moderno\" es problemática, empezando por una dificultad obvia: el arte de la Edad Moderna (de mediados del siglo XV a finales del siglo XVIII) no es lo que se entiende como \"arte moderno\", mientras que sí lo es el arte de la Edad Contemporánea (desde finales del siglo XVIII hasta la actualidad). Otra ambigüedad evidente es la utilización de la expresión \"arte moderno\" en oposición a \"arte antiguo\", que tampoco coincide siempre con el arte de la Edad Antigua (desde el inicio de la historia hasta el siglo V), especialmente en formas como \"maestros antiguos\" y \"maestros modernos\", siendo aquellos los del siglo XV al XVII, y estos los posteriores, épocas con...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918626.8218374,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "En ficción, un personaje es cada una de las personas o seres ya sean reales o imaginarios que aparecen en una narrativa, ya sea televisiva, teatral, cinematográfica, literaria, o de videojuegos. Un caso particular es en la poesía, donde siempre hay algún tipo de persona presente.\nEnlace: https://es.wikipedia.org/wiki/Personaje (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEn ficción, un personaje es cada una de las personas o seres ya sean reales o imaginarios que aparecen en una narrativa, ya sea televisiva, teatral, cinematográfica, literaria, o de videojuegos. Un caso particular es en la poesía, donde siempre hay algún tipo de persona presente.\n\nLos personajes suelen ser el elemento endocéntrico de los textos de ficción. Los personajes guían a los lectores o a la audiencia a través de sus historias, ayudándoles a comprender las tramas y reflexionar sobre los temas. Una novela sin personajes es extremadamente inusual, aunque ha habido experimentos en este sentido, tal es el ejemplo de la obra Finnegans Wake, de James Joyce.\n\nAsimismo, el personaje es una construcción mental elaborada mediante el lenguaje y la imagen. En varios espectáculos teatrales, puestas en escena y películas los personajes son protagonizados por actores, bailarines y cantantes. Para las animaciones y los títeres, existen actores vocales.\n\nEl personaje, como concepto estructuralista, permanece estático, y se reduce a un conjunto de características o a una función necesaria en el desarrollo de la acción.\n\nEl término “Personaje” proviene de la palabra “Persona”, de origen griego...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918628.2276042,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La vicepresidencia de la República de Colombia es el segundo más alto cargo del poder ejecutivo en Colombia. El vicepresidente es elegido por sufragio universal el mismo día y con la misma fórmula que el presidente de la República. La vicepresidenta ejerce la presidencia de forma definitiva cuando el presidente muere, renuncia o es apartado de su cargo por un enjuiciamiento. Tres vicepresidentes han asumido la Presidencia a causa de renuncia del presidente.\nEnlace: https://es.wikipedia.org/wiki/Vicepresidente_de_Colombia (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa vicepresidencia de la República de Colombia es el segundo más alto cargo del poder ejecutivo en Colombia. El vicepresidente es elegido por sufragio universal el mismo día y con la misma fórmula que el presidente de la República. La vicepresidenta ejerce la presidencia de forma definitiva cuando el presidente muere, renuncia o es apartado de su cargo por un enjuiciamiento. Tres vicepresidentes  han asumido la Presidencia a causa de renuncia del presidente.\n\nHumberto de la Calle y Germán Vargas Lleras han sido los únicos vicepresidentes que han renunciado a su cargo.\n\nLas funciones principales del vicepresidente están determinadas por la Constitución de 1991, la cual revivió la figura de la vicepresidencia, que había sido eliminada por la reforma constitucional de 1910. Desde 1991 el vicepresidente y su familia han residido en la Casa Vicepresidencial, en Bogotá D. C.\n\nActualmente, Francia Márquez es la vicepresidenta de la República de Colombia, siendo la segunda mujer y primera afrodescendiente en ocupar el cargo.\n\nMediante el Decreto 1874 de 2022, el presidente de la República de Colombia, Gustavo Petro, en uso de sus facultades establecidas en el artículo 202 de la Constitució...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918631.042774,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "\nLa Universidad de Cartagena, también conocida como Unicartagena o por su sigla UdeC, es una universidad pública colombiana localizada en Cartagena de Indias, sujeta a inspección y vigilancia por medio de la Ley 1740 de 2014 y la ley 30 de 1992 del Ministerio de Educación de Colombia. Fue fundada en 1827 por Francisco de Paula Santander y Simón Bolívar, lo que la constituye en la universidad pública más antigua del Caribe colombiano. El 26 de febrero de 2014 la Universidad de Cartagena recibió por parte del Ministerio de Educación Nacional la Acreditación Institucional de Alta Calidad, convirtiéndose en la primera universidad pública de la región Caribe con este tipo de acreditación. Y actualmente, es la primera universidad pública de Colombia en recibir la acreditación internacional. La UdeC tiene programas en los denominados \"Centro Tutorial\" de los municipios de Cereté, El Carmen de Bolívar, Lorica, Magangué, San Juan Nepomuceno y Santa Cruz de Mompox.\nEnlace: https://es.wikipedia.org/wiki/Universidad_de_Cartagena (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa Universidad de Cartagena, también conocida como Unicartagena o por su sigla UdeC, es una universidad pública colombiana localizada en Cartagena de Indias, sujeta a inspección y vigilancia por medio de la Ley 1740 de 2014 y la ley 30 de 1992 del Ministerio de Educación de Colombia. Fue fundada en 1827 por Francisco de Paula Santander y Simón Bolívar, lo que la constituye en la universidad pública más antigua del Caribe colombiano. El 26 de febrero de 2014 la Universidad de Cartagena recibió por parte del Ministerio de Educación Nacional la Acreditación Institucional de Alta Calidad, convirtiéndose en la primera universidad pública de la región Caribe con este tipo de acreditación. Y actualmente, es la primera universidad pública de Colombia en recibir la acreditación internacional. La UdeC tiene programas en los denominados \"Centro Tutorial\" de los municipios de Cereté, El Carmen de Bolívar, Lorica, Magangué, San Juan Nepomuceno y Santa Cruz de Mompox.\nAsimismo, el 20 de abril del año 2022 obtuvo la certificación de Acreditación Internacional, por parte de la Unión de Universidades de América Latina y del Caribe (UDUAL), siendo la primera en el país en obtener tal acreditación.[3...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918632.4138856,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El impacto ambiental, también conocido como impacto antrópico o impacto antropogénico, es la alteración o modificación que causa una acción humana sobre el medio ambiente. Debido a que todas las acciones del ser humano repercuten de alguna manera sobre el medio ambiente, un impacto ambiental se diferencia de un simple efecto en el medio ambiente mediante una valoración que permita determinar si la acción efectuada es capaz de cambiar la calidad ambiental y así justificar la denominación de impacto ambiental.\nEnlace: https://es.wikipedia.org/wiki/Impacto_ambiental (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl impacto ambiental,[1]​ también conocido como impacto antrópico o impacto antropogénico, es la alteración o modificación que causa una acción humana sobre el medio ambiente.[2]​[3]​ Debido a que todas las acciones del ser humano repercuten de alguna manera sobre el medio ambiente, un impacto ambiental se diferencia de un simple efecto en el medio ambiente mediante una valoración que permita determinar si la acción efectuada (por ejemplo un proyecto) es capaz de cambiar la calidad ambiental y así justificar la denominación de impacto ambiental.\n\nPara entender mejor la diferencia que existe en catalogar la repercusión de una acción humana, de efecto o impacto ambiental, es preciso tener un poco más claro los términos medio ambiente y ambiente.[4]​\n\nPor lo general se utilizan indistintamente medio, ambiente y medio ambiente como sinónimos, pero pueden distinguirse diferentes significados: medio es el elemento en el que vive una persona, animal o cosa; el ambiente por su parte puede definirse como el conjunto de factores bióticos y abióticos sobre los organismos y comunidades ecológicas, determinando su forma y desarrollo; y medio ambiente puede decirse que es el conjunto de condicio...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918635.3427052,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La programación es el proceso de crear un conjunto de instrucciones que le dicen a una computadora como realizar algún tipo de tarea. Pero no solo la acción de escribir un código para que la computadora o el software lo ejecute. Incluye, además, todas las tareas necesarias para que el código funcione correctamente y cumpla el objetivo para el cual se escribió.\nEnlace: https://es.wikipedia.org/wiki/Programación (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa programación es el proceso de crear un conjunto de instrucciones que le dicen a una computadora como realizar algún tipo de tarea. Pero no solo la acción de escribir un código para que la computadora o el software lo ejecute. Incluye, además, todas las tareas necesarias para que el código funcione correctamente y cumpla el objetivo para el cual se escribió.[1]​\n\nEn la actualidad, la noción de programación se encuentra muy asociada a la creación de aplicaciones de informática y videojuegos. En este sentido, es el proceso por el cual una persona desarrolla un programa, valiéndose de una herramienta que le permita escribir el código (el cual puede estar en uno o varios lenguajes, como C++, Java y Python, entre muchos otros) y de otra que sea capaz de “traducirlo” a lo que se conoce como lenguaje de máquina, que puede \"comprender\" el microprocesador.[2]​\n\nPara crear un programa y que la computadora lo interprete y ejecute, las instrucciones deben escribirse en un lenguaje de programación.\n\nEl lenguaje entendido por una computadora se conoce como código máquina. Consiste en secuencias de instrucciones básicas que el procesador reconoce, codificadas como cadenas de números 1 y 0 (sist...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918636.6629686,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La isla de San Andrés es una isla colombiana del mar Caribe. Es la más grande de las islas que forman parte del archipiélago de San Andrés, Providencia y Santa Catalina, con una extensión total de 26 km², siendo así la isla más grande del país.\nEnlace: https://es.wikipedia.org/wiki/Isla_de_San_Andrés_(Colombia) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa isla de San Andrés (conocida también como SAI, las iniciales de San Andrés Isla) es una isla colombiana del mar Caribe. Es la más grande de las islas que forman parte del archipiélago de San Andrés, Providencia y Santa Catalina, con una extensión total de 26 km², siendo así la isla más grande del país.[2]​  \n\nLas islas han sido objeto de disputa territorial entre Colombia y Nicaragua. Sin embargo, el 19 de noviembre de 2012, la Corte Internacional de Justicia dictaminó la soberanía total de Colombia sobre el archipiélago, con concesiones de espacio marítimo a Nicaragua.[3]​\n\nNumerosos pueblos han contribuido al moldeamiento de la cultura raizal del archipiélago: africanos, británicos, escoceses, neerlandeses, irlandeses, franceses, españoles y colombianos. En especial tres personajes han tenido que ver con su historia de manera muy particular: el pirata Henry Morgan, quien hizo de las islas comando central de sus actividades de piratería en el mar Caribe; el primer gobernante español (hijo de padres irlandeses), Tomás O'Neille, y el francés Luis Aury, quien apoyó desde las islas las causas independentistas en toda la cuenca del Caribe, desde Texas hasta la actual Colombia. La hi...",
+    "tipo": "comando",
+    "timestamp": 1746918638.1658268,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "El español bogotano, rolo o cachaco es el dialecto del idioma español hablado en la ciudad de Bogotá, en el interior de Colombia, y en algunos municipios aledaños como Soacha, La Calera, Mosquera, Facatativa y Madrid constituyendo una variedad del español cundiboyacense, el cual es de carácter rural.\nEnlace: https://es.wikipedia.org/wiki/Español_bogotano (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl español bogotano, rolo o cachaco es el dialecto del idioma español hablado en la ciudad de Bogotá, en el interior de Colombia, y en algunos municipios aledaños como Soacha, La Calera, Mosquera, Facatativa y Madrid constituyendo una variedad del español cundiboyacense, el cual es de carácter rural. \n\nComo capital nacional, en Bogotá confluyen las diferentes culturas y habitantes del país, por lo que el característico acento local antiguo conocido como cachaco ya es difícil de encontrar, y es debido a esta variedad considerada de prestigio, que algunos bogotanos tienden a creer que su habla aún es pura y neutral aunque ha sufrido cambios notables desde mediados del siglo xx.[1]​\n\nEs de facto la variante estándar del español en Colombia, predominante en los medios de comunicación, periodísticos y ambientes cultos a nivel nacional.\n\nLa región donde se asienta la actual Bogotá fue conocida como Bacatá, en tiempos prehispánicos, una de las principales villas de los muiscas junto a Hunza (Tunja). La mayoría de colonizadores de la región eran andaluces, castellanos y aragoneses.\n\nSanta Fe de Bogotá adquirió en 1739 la posición que desde dos siglos atrás mantenían capitales como Lima y M...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918639.4583242,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La Super Estación fue una emisora de radio colombiana que emitió en Bogotá desde el 19 de marzo de 1982 hasta el 2 de septiembre de 2005, y su reanudación en plataformas web desde 2010. Fue creada por Fernando Pava Camelo y tuvo una orientación juvenil, llegando a ser un referente en música moderna, especialmente en rock anglo, rock en español, pop y dance.\nEnlace: https://es.wikipedia.org/wiki/Superestación (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa Super Estación (antes Super Stereo 88.9) fue una emisora de radio colombiana que emitió en Bogotá desde el 19 de marzo de 1982 hasta el 2 de septiembre de 2005, y su reanudación en plataformas web desde 2010.[1]​ Fue creada por Fernando Pava Camelo y tuvo una orientación juvenil, llegando a ser un referente en música moderna, especialmente en rock anglo, rock en español, pop y dance.\n\nPara finales de los años 70 y comienzos de los 80, no había una radio juvenil orientada al rock y pop en Colombia. Había quedado atrás la época en que Radio 15 de Alfonso Lizarazo y El club del clan aglutinaban a la juventud alrededor de la música pop y rock. Las emisoras de radio se movían principalmente entre los géneros tropicales y las baladas de artistas españoles y suramericanos como Julio Iglesias, Nino Bravo, Mocedades o Palito Ortega. Para ese entonces, Radio Tequendama, 610 kHz de AM en Bogotá, era una de las pocas emisoras que mezclaba las producciones anglosajonas con las nacionales, dirigida en sus inicios Gonzalo Ayala, creador del personaje Pompin, seguido de Marino Recio, entre otros.[cita requerida]\n\nPor el año 1976, Radio Fantasía apareció en el dial bogotano con programación de m...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918640.8152268,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "PC Gamer es una revista de habla inglesa creada en el Reino Unido en 1993 y enfocada en la cobertura de videojuegos para PC. Es publicada en forma mensual por Future plc. La revista tiene varias ediciones regionales, y se ha convertido en la revista especializada en este tipo de videojuegos más vendida en Estados Unidos y el Reino Unido. La revista cubre noticias sobre la industria de los videojuegos, adelantos de títulos nuevos y reseñas sobre los últimos y más populares juegos para PC, además de otros temas relacionados con hardware, mods, juegos \"clásicos\" y otros. PC Gamer también tiene otro significado; ordenador gaming, considerado básicamente una súper máquina que se especializa en la ejecución de juegos de alto nivel gráfico. Una PC gamer acelera la velocidad de las herramientas de edición gráfica, hace fluida la ejecución de los programas y facilita la renderización de videos y efectos audiovisuales.\nEnlace: https://es.wikipedia.org/wiki/PC_Gamer (Fuente: Wikipedia)\n\n[Contenido extendido:]\nPC Gamer  es una revista de habla inglesa creada en el Reino Unido en 1993 y enfocada en la cobertura de videojuegos para PC. Es publicada en forma mensual por Future plc. La revista tiene varias ediciones regionales, y se ha convertido en la revista especializada en este tipo de videojuegos más vendida en Estados Unidos y el Reino Unido.[1]​[2]​ La revista cubre noticias sobre la industria de los videojuegos, adelantos de títulos nuevos y reseñas sobre los últimos y más populares juegos para PC, además de otros temas relacionados con hardware, mods, juegos \"clásicos\" y otros. PC Gamer también tiene otro significado; ordenador gaming, considerado básicamente una súper máquina que se especializa en la ejecución de juegos de alto nivel gráfico. Una PC gamer acelera la velocidad de las herramientas de edición gráfica, hace fluida la ejecución de los programas y facilita la renderización de videos y efectos audiovisuales.\n\nLas reseñas en PC Gamer son escritas por los editores de la revista y por escritores libres, y califica a los juegos con un porcentaje sel 1% al 100%. En la edición estadounidense ningún juego ha recibido un puntaje mayor de 98% (Sid Meier's Alpha Centauri, Half-Life...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918642.2530234,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Albur en el idioma español se refiere, entre otras acepciones, a contingencia o azar a que se fía el resultado de alguna empresa. Ejemplos: \"No deja nada al albur\", \"merecía la pena correr el riesgo al albur\".\nEnlace: https://es.wikipedia.org/wiki/Albur_(idioma_español) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nAlbur en el idioma español se refiere, entre otras acepciones, a contingencia o azar a que se fía el resultado de alguna empresa. Ejemplos: \"No deja nada al albur\", \"merecía la pena correr el riesgo al albur\".[1]​[nota 1]​\n\nEl albur es un juego de palabras que esconde un doble sentido, sobre todo de carácter sexual. En general se considera que en él participan dos o más personas, donde las palabras toman su doble sentido y significado de uno o varios fenómenos lingüísticos, como el bifronte, el calambur y la paronomasia. Este fenómeno de la lengua española se repite en otros idiomas como en el inglés con el llamado innuendo (del verbo latino innuere) o slang.[2]​\n\nEl juego del albur consiste en formar palabras y frases diferentes dentro de otras. Por ejemplo, la frase sencilla \"Taco Holgado\" se puede pronunciar como Ta co-holgado.[2]​ Aunque esto se puede lograr en cualquier tipo de plática, el albur se relaciona en general con una competencia cargada de dobles-sentido sexuales y escatológicos en la que el objetivo es humillar al contrario.[2]​\n\nEn América, los países que más se presenta este fenómeno son México, Chile, Colombia, República Dominicana y  Venezuela.\n\nAunque las regla...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918643.548249,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "Se conoce como slang a la jerga de registro coloquial e informal usada en el idioma inglés.\nEnlace: https://es.wikipedia.org/wiki/Slang (Fuente: Wikipedia)\n\n[Contenido extendido:]\nSe conoce como slang a la jerga de registro coloquial e informal usada en el idioma inglés. \n\nHace referencia a diversos aspectos de la vida cotidiana, como las emociones, las relaciones sociales, el sexo o la muerte. A través de las épocas el slang ha supuesto un importante medio de expresión en las artes anglosajonas; por su naturaleza coloquial facilita el uso de figuras retóricas como la metáfora, la inclusión de frases con doble sentido, de expresiones irónicas, etcétera.\n\nEntre algunos ejemplos de slang en el inglés de Estados Unidos están:...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918644.852213,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Un jugador de videojuegos o videojugador, también conocido por el anglicismo gamer, es toda persona que juega a algún videojuego apasionadamente.\nEnlace: https://es.wikipedia.org/wiki/Jugador_de_videojuegos (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUn jugador de videojuegos o videojugador, también conocido por el anglicismo gamer,[1]​ es toda persona que juega a algún videojuego apasionadamente.\n\nUn videojugador es aquella persona que se caracteriza por jugar con gran dedicación e interés a videojuegos y por tener un conocimiento extenso sobre estos. También, aunque más ocasionalmente, se designa en español a este\njugador habitual apasionado de los videojuegos, pero también entra dentro de los geeks. Ninguno de esos términos es necesariamente peyorativo o indica una patología en las personas designadas. Sin embargo, es posible que un jugador desarrolle una adicción o un uso problemático a los videojuegos.[2]​\n\nEn ocasiones se utiliza la denominación hardcore gamer o jugador duro para referirse a un jugador aficionado que busca completar el máximo de contenido (logros, armas, desbloqueo de personajes, etc.) de un título, siendo un caso distinto a un adicto. La adicción ligada a los videojuegos es, en el caso de los videojuegos multijugador, una forma de ciberadicción.\n\nPor otra parte, un jugador casual (poser) es un tipo de jugador cuyo tiempo o interés en los videojuegos es limitado en comparación con los aficionados más apas...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918648.0984693,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El Ministerio de Salud Pública y Bienestar Social es un organismo del estado paraguayo, dependiente del Poder Ejecutivo de la nación. Tiene a su cargo el área de salud y desarrollo social. Actualmente, la ministra es la Dra. María Teresa Baran Wasilchuk, quien asumió el 15 de agosto de 2023.\nEnlace: https://es.wikipedia.org/wiki/Ministerio_de_Salud_Pública_y_Bienestar_Social (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Ministerio de Salud Pública y Bienestar Social (en guaraní, Tesãi ha Teko Porãve Motenondeha)[1]​ es un organismo del estado paraguayo, dependiente del Poder Ejecutivo de la nación. Tiene a su cargo el área de salud y desarrollo social. Actualmente, la ministra es la Dra. María Teresa Baran Wasilchuk, quien asumió el 15 de agosto de 2023....",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918649.4923356,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La cultura de Colombia es el resultado de una compleja mezcla entre influencias indígenas, europeas y africanas. La llegada de los españoles en el siglo XVI marcó el inicio de un proceso de mestizaje cultural, especialmente con pueblos originarios como los muiscas en el altiplano cundiboyacense y los taironas en la región norte del país. Durante la colonización, se introdujeron elementos como el catolicismo, el sistema de encomiendas y una estructura social jerárquica basada en castas, con los peninsulares y criollos en la cúspide.\nEnlace: https://es.wikipedia.org/wiki/Cultura_de_Colombia (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa cultura de Colombia es el resultado de una compleja mezcla entre influencias indígenas, europeas y africanas. La llegada de los españoles en el siglo XVI marcó el inicio de un proceso de mestizaje cultural, especialmente con pueblos originarios como los muiscas en el altiplano cundiboyacense y los taironas en la región norte del país. Durante la colonización, se introdujeron elementos como el catolicismo, el sistema de encomiendas y una estructura social jerárquica basada en castas, con los peninsulares y criollos en la cúspide.[1]​\n\nTras la crisis del imperio español en el siglo siglo XIX, surgieron en América movimientos independentistas liderados por criollos que buscaban establecer repúblicas autónomas. En Colombia, esto dio lugar a una vida política marcada por la pugna entre los partidos liberal y conservador. Los conservadores defendían la unión entre la Iglesia católica y el Estado, además del proteccionismo económico. En contraste, los liberales promovían la separación Iglesia-Estado y el libre comercio.[2]​\n\nEl mestizaje entre europeos, indígenas y africanos dio lugar a nuevas categorías sociales como mestizos, mulatos, morenos y zambos. Esta diversidad se refleja en e...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918652.2893836,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "La Orinoquía, también conocida como Llanos Orientales, es una de las 6 regiones naturales de Colombia. Está ubicada al oriente del país, limitando al norte y este con Venezuela, al sur con Amazonia y al oeste con la región andina. Determinada por la cuenca del río Orinoco, es un ecosistema que se caracteriza por ser una planicie. La región se halla entre los ríos Arauca, Guaviare, Orinoco y el Piedemonte llanero.\nEnlace: https://es.wikipedia.org/wiki/Región_de_la_Orinoquía_(Colombia) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa Orinoquía,[2]​ también conocida como Llanos Orientales, es una de las 6 regiones naturales de Colombia. Está ubicada al oriente del país, limitando al norte y este con Venezuela, al sur con Amazonia y al oeste con la región andina. Determinada por la cuenca del río Orinoco, es un ecosistema que se caracteriza por ser una planicie. La región se halla entre los ríos Arauca, Guaviare, Orinoco y el Piedemonte llanero.[3]​[4]​\n\nEs una región de intensa actividad ganadera donde se escenificaron importantes luchas durante la época de la Independencia colombiana y venezolana. Culturalmente está habitada por el llanero, individuo común también a los Llanos venezolanos.[5]​\n\nLa Orinoquía coincide en mucho con dos regiones claramente diferenciadas y suele confundirse con ellas.  La primera es una cuenca hidrográfica, la del río Orinoco.  Esta se extiende desde los Andes a las selvas amazónicas (el mismo río Orinoco nace en la selva amazónica venezolana), e incluye las cuencas de los ríos Meta, Guaviare y Guainía.  La segunda, los Llanos, es una región natural y cultural colombo-venezolana. A esta la caracterizan sus extensas sabanas de zona intertropical y bosques de galería; sus habitante...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918653.6001902,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "La Licencia Python es una licencia de software ya en desuso creada por la Corporación para las Iniciativas de Investigación. Utilizada en las versiones 1.6 y 2.0 del lenguaje de programación Python, ambos liberados en el año 2000. La Licencia Python es similar a la Licencia BSD, pero aunque se trata de una Licencia de software libre, la forma que está redactada no la hace compatible con la GNU General Public License (GPL) que es utilizada por la mayoría de los proyectos incluyendo el kernel Linux. Por esta razón CNRI retiró la licencia en el 2001, a favor de la Python Software Foundation License.\nEnlace: https://es.wikipedia.org/wiki/Licencia_Python (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa Licencia Python (en inglés, Python License) es una licencia de software ya en desuso creada por la Corporación para las Iniciativas de Investigación (en inglés, Corporation for National Research Initiatives). Utilizada en las versiones 1.6 y 2.0 del lenguaje de programación Python, ambos liberados en el año 2000. La Licencia Python es similar a la Licencia BSD, pero aunque se trata de una Licencia de software libre, la forma que está redactada no la hace compatible con la GNU General Public License (GPL) que es utilizada por la mayoría de los proyectos incluyendo el kernel Linux. Por esta razón CNRI retiró la licencia en el 2001, a favor de la Python Software Foundation License.\n\nPython fue creado por Guido van Rossum, los derechos de autor fueron para la compañía donde trabajaba, la Centrum Wiskunde & Informatica (CWI). En ese tiempo, Python se distribuyó bajo una variante compatible con GPL, la Notificación y Declaración de Permiso Histórico (en inglés, Historical Permission Notice and Disclaimer)\n.[1]​ \nLa CNRI adquirió la propiedad de Python cuando van Rossum aun trabajaba allí, y luego de algunos años redactó una nueva licencia para el lenguaje.\n\nLa Licencia Python incluye ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918654.7766156,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El síndrome de Ochoa o síndrome urofacial de Ochoa, abreviado UFOS es una enfermedad rara, descrita en 1979 por el Dr. Elejade, observando pacientes encontrados por el médico colombiano Bernardo Ochoa en Medellín, Colombia en 1960. También es conocida como hidronefrosis con expresiones faciales peculiares.\nEs una enfermedad hereditaria de tipo autosómico recesivo, que consiste en una alteración desconocida localizada en el brazo largo del cromosoma 10 (10q23-q24) caracterizada por presentar expresiones faciales invertidas asociadas a una enfermedad obstructiva del tracto urinario y estreñimiento. Se han comunicado hasta la fecha 100 casos similares.\nSiroki (1982) explica la coincidencia de síntomas porque la micción es un reflejo central controlado por la formación reticular, que anatómicamente está próximo a los núcleos de los nervios faciales\nEnlace: https://es.wikipedia.org/wiki/Síndrome_de_Ochoa (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl síndrome de Ochoa o síndrome urofacial de Ochoa, abreviado UFOS es una enfermedad rara, descrita en 1979 por el Dr. Elejade, observando pacientes encontrados por el médico colombiano Bernardo Ochoa en Medellín, Colombia en 1960.[1]​ También es conocida como hidronefrosis con expresiones faciales peculiares.\nEs una enfermedad hereditaria de tipo autosómico recesivo, que consiste en una alteración desconocida localizada en el brazo largo del cromosoma 10  (10q23-q24)[2]​  caracterizada por presentar expresiones faciales invertidas (ponen cara de llorar cuando parece que van a reír y a la inversa) asociadas a una enfermedad obstructiva del tracto urinario y estreñimiento. Se han comunicado hasta la fecha 100 casos similares.\nSiroki (1982) explica la coincidencia de síntomas porque la micción es un reflejo central controlado por la formación reticular, que anatómicamente está próximo a los núcleos de los nervios faciales...",
+    "tipo": "comando",
+    "timestamp": 1746918657.3915145,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "KeeWeb es un gestor de contraseñas gratuito y de código abierto compatible con KeePass, disponible como versión web y aplicación de escritorio. El formato de archivo subyacente es KDBX. KeeWeb fue elogiado por Ghacks Technology News en 2016 como \"novedad\" que soluciona el \"defecto de una versión basada en web\" de KeePass, y por Tech Advisor en 2020 como \"gestor de contraseñas multiplataforma bien diseñado\".\nEnlace: https://es.wikipedia.org/wiki/KeeWeb (Fuente: Wikipedia)\n\n[Contenido extendido:]\nKeeWeb es un gestor de contraseñas gratuito y de código abierto[1]​ compatible con KeePass,[2]​ disponible como versión web y aplicación de escritorio.[3]​ El formato de archivo subyacente es KDBX (archivo de base de datos KeePass).[4]​ KeeWeb fue elogiado por Ghacks Technology News en 2016 como \"novedad\" que soluciona el \"defecto de una versión basada en web\" de KeePass, y por Tech Advisor en 2020 como \"gestor de contraseñas multiplataforma bien diseñado\".[5]​[6]​\n\nEstá escrito en Javascript y hace uso de marcas como WebCrypto[7]​ y WebAssembly para trabajar con archivos de contraseñas directamente en navegador, sin cargarles a un servidor. Puede sincronizar archivos con servicios populares de hosting de archivos, como Dropbox, Google Drive o OneDrive.[8]​\n\nEl mismo código de Javascript es también utilizado en aplicaciones de escritorio hechas con Electrón. La versión de escritorio añade algunas características no disponibles en la versión web:[9]​\n\nKeeWeb también puede ser ejecutado como servidor independiente, o instalado como aplicación Nextcloud.[11]​...",
+    "tipo": "comando",
+    "timestamp": 1746918661.5768244,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "La historia de Colombia hace referencia a los procesos que han marcado el devenir histórico de la actual República de Colombia, un país americano ubicado al noroccidente de América del Sur, con una superficie de 2 070 408 km² y una población de 50 372 424.\nEnlace: https://es.wikipedia.org/wiki/Historia_de_Colombia (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa historia de Colombia hace referencia a los procesos que han marcado el devenir histórico de la actual República de Colombia, un país americano ubicado al noroccidente de América del Sur, con una superficie de &&&&&&&&02070408.&&&&&02 070 408 km² (&&&&&&&&01141748.&&&&&01 141 748 km² corresponden a su territorio continental y los restantes &&&&&&&&&0928660.&&&&&0928 660 km² a su extensión marítima) y una población de &&&&&&&050372424.&&&&&050 372 424.[1]​\n\nLas primeras expediciones de los conquistadores españoles en el territorio se llevaron a cabo en el litoral Atlántico en 1499, aunque el proceso de colonización se inició solamente en 1509.[2]​ Así entró en la región un nuevo factor que alteró el anterior panorama que se había venido desarrollando entre los pueblos indígenas. Con la llegada de los europeos al territorio de los Muiscas se inició el proceso de conquista.[3]​\n\nEl siglo XIX en Colombia fue una época de grandes cambios: se pasó de ser una dependencia del Imperio español en sus inicios, a las guerras de independencia y a los experimentos políticos para dar forma a una nación independiente. Tras el levantamiento del Común en 1781 y de varios episodios que tuvieron com...",
+    "tipo": "preferencia",
+    "timestamp": 1746918664.6222014,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Carme Ruscalleda Serra es una chef española.\nEnlace: https://es.wikipedia.org/wiki/Carme_Ruscalleda (Fuente: Wikipedia)\n\n[Contenido extendido:]\nCarme Ruscalleda Serra (San Pol de Mar, Barcelona, 1952) es una chef española.\n\nDe una familia agricultora  comerciante, estudió el oficio de charcutería, además de comercio mercantil, y se incorporó al negocio familiar (una charcutería) junto a su marido. Enseguida incorporó una sección de platos caseros para llevar. Compró la torre de delante de su tienda para abrir junto a su marido Toni Balam, en julio de 1988, el restaurante Sant Pau de San Pol de Mar (España), en tres años consiguió su primera estrella de la Guía Michelín, en 1996 ganó la segunda y en 2006 la tercera. En 2004 abrió un restaurante de cocina catalana en Tokio, también llamado Sant Pau. En la actualidad es la única mujer del mundo que posee siete estrellas de la Guía Michelín, tres por su restaurante Sant Pau en San Pol de Mar (Barcelona), dos por Moments, en Barcelona al frente de cuyas cocinas se encuentra su hijo Raül Balam y dos más por el restaurante Sant Pau en Tokio.\n\nEn España es la cocinera con más estrellas de la Guía Michelín,[1]​ y cuenta además con la máxima calificación (tres soles) de la Guía Campsa-Repsol. Su cocina está fundamentada en la tradición cocina catalana, pero dando siempre un toque de...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918666.0687292,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La ética en la inteligencia artificial es una rama de la ética dirigida a la existencia de robots inteligentes o cualquier otro ente que posea inteligencia artificial. La posibilidad de crear máquinas pensantes plantea una serie de cuestiones éticas que abarcan diferentes puntos, tanto que las máquinas no lastimen a seres humanos o seres vivos en general, como el estatus moral propio de la máquina.\nEnlace: https://es.wikipedia.org/wiki/Ética_en_la_inteligencia_artificial (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa ética en la inteligencia artificial es una rama de la ética dirigida a la existencia de robots inteligentes o cualquier otro ente que posea inteligencia artificial.[1]​ La posibilidad de crear máquinas pensantes plantea una serie de cuestiones éticas que abarcan diferentes puntos, tanto que las máquinas no lastimen a seres humanos o seres vivos en general, como el estatus moral propio de la máquina.\n\nPor lo general está dividido en roboética, la preocupación por el comportamiento moral de los seres humanos a medida que diseñan, construyen, usan y tratan a seres de inteligencia artificial, y la ética de las máquinas, que es la preocupación por el comportamiento moral de los agentes morales artificiales (en inglés AMAs).\n\nLos pensadores en la actualidad están preocupados por el desarrollo de conciencia en la inteligencia artificial, aunque no necesariamente están enfocados a lo importante, debemos entender que desarrollar conciencia en robots no es lo mismo que darles las funciones para realizar acciones contraproducentes. La parte delicada es de qué forma se va a incluir la ética en la inteligencia artificial.\n\nTomemos  un robot programado para producir a toda costa clips de pape...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918667.5683892,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El Consejo Nacional de la Cultura y las Artes (CNCA) fue un servicio público chileno, de carácter autónomo, descentralizado y territorialmente desconcentrado, con personalidad jurídica y patrimonio propio, que se relaciona directamente con el presidente de la República, cuya misión es apoyar el desarrollo de las artes y la difusión de la cultura, contribuir a conservar, incrementar y poner al alcance de las personas el patrimonio cultural de Chile y promover la participación de estas en la vida cultural del país. Tenía su sede nacional en la ciudad de Valparaíso y contaba con sedes regionales en todas las capitales de las regiones chilenas.\nEnlace: https://es.wikipedia.org/wiki/Consejo_Nacional_de_la_Cultura_y_las_Artes (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Consejo Nacional de la Cultura y las Artes (CNCA) fue un servicio público chileno, de carácter autónomo, descentralizado y territorialmente desconcentrado, con personalidad jurídica y patrimonio propio, que se relaciona directamente con el presidente de la República, cuya misión es apoyar el desarrollo de las artes y la difusión de la cultura, contribuir a conservar, incrementar y poner al alcance de las personas el patrimonio cultural de Chile y promover la participación de estas en la vida cultural del país. Tenía su sede nacional en la ciudad de Valparaíso y contaba con sedes regionales en todas las capitales de las regiones chilenas.\n\nFue creado mediante la ley 19891 del 23 de agosto de 2003.[1]​ Fue reemplazado el 1 de marzo de 2018 por el Ministerio de las Culturas, las Artes y el Patrimonio, creado por la ley 21.045 del 13 de octubre de 2017.[2]​\n\nEl Consejo fue creado después de una larga discusión en el Congreso Nacional, acerca de la mejor manera en que el Estado debía participar en el fomento y promoción de la creación artística y cultural, formando parte del programa de gobierno del presidente Ricardo Lagos Escobar, quien apoyó decididamente su creación, estableciend...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918670.133103,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Carolina Giraldo Navarro, conocida artísticamente como Karol G, es una cantante, compositora y empresaria colombiana. Su carrera ha destacado por emplear los estilos de reguetón y pop urbano, aunque también ha incursionado con otros estilos musicales urbanos y latinoamericanos.\nEnlace: https://es.wikipedia.org/wiki/Karol_G (Fuente: Wikipedia)\n\n[Contenido extendido:]\nCarolina Giraldo Navarro (Medellín, 14 de febrero de 1991), conocida artísticamente como Karol G, es una cantante, compositora y empresaria colombiana. Su carrera ha destacado por emplear los estilos de reguetón y pop urbano, aunque también ha incursionado con otros estilos musicales urbanos y latinoamericanos. \n\nSe lanzó internacionalmente con la canción «301» junto con el cantante Reykon en 2012, posicionado en el top de varias estaciones de radios y canales de televisión,[6]​ y le permitió realizar conciertos en países como Aruba, Colombia, Ecuador y Estados Unidos.[7]​ \n\nObtuvo mayor reconocimiento en 2013, cuando lanzó la canción «Amor de dos» junto con Nicky Jam[8]​y se mudó a la ciudad de Nueva York en 2014 para aprender más sobre la industria de la música, firmando un contrato con Universal Music Latino.\n\nSu colaboración con el cantante puertorriqueño Bad Bunny en el tema «Ahora me llama», fue el sencillo principal de su álbum debut Unstoppable en 2017, el cual se posicionó en el segundo puesto en la lista Top Latin Albums de Billboard.[9]​[10]​[11]​ Meses más tarde, realizó un remix junto con Quavo, y le dio a la cantante su primer ingreso al top 10 de la lista Hot Latin S...",
+    "tipo": "preferencia",
+    "timestamp": 1746918671.5456967,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Un orador motivacional es un orador que hace discursos destinados a motivar o inspirar a una audiencia. Estos oradores pueden intentar desafiar o transformar espiritualmente a sus audiencias. El discurso en sí se conoce popularmente como charla motivacional.\nEnlace: https://es.wikipedia.org/wiki/Orador_motivacional (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUn orador motivacional (o orador inspiracional) es un orador que hace discursos destinados a motivar o inspirar a una audiencia. Estos oradores pueden intentar desafiar o transformar espiritualmente a sus audiencias.[1]​ El discurso en sí se conoce popularmente como charla motivacional.[2]​\n\nLos oradores motivacionales pueden pronunciar discursos en escuelas, universidades, lugares de culto, empresas, corporaciones, agencias gubernamentales, conferencias, ferias comerciales, cumbres, organizaciones comunitarias y entornos similares.[3]​[4]​\n\nUno de los primeros oradores motivacionales conocidos a quien se le atribuye el concepto fue Ralph Waldo Emerson (1803-1882) un ensayista, poeta y filósofo estadounidense.[5]​\n\nLas dos teorías principales que explican por qué es necesario buscar oradores motivacionales externamente son la necesidad de cubrir la teoría del contenido o la necesidad de las teorías del proceso.[6]​\n\nLas teorías de contenido fueron creadas por diferentes filósofos, como Abraham Maslow,  Frederick Herzberg y David McClelland. Se centran en el funcionamiento interno y piensan en un individuo y en lo que le dará energía, detendrá los comportamientos y lo mantendrá sost...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918672.8301811,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Daytona USA es un videojuego de carreras desarrollado por Sega en el año 1993. En principio el juego fue desarrollado para máquinas recreativas y posteriormente fue portado a Sega Saturn, Sega Dreamcast, Windows y finalmente a Xbox Live y PlayStation Network.\nEnlace: https://es.wikipedia.org/wiki/Daytona_USA (Fuente: Wikipedia)\n\n[Contenido extendido:]\nDaytona USA es un videojuego de carreras desarrollado por Sega en el año 1993. En principio el juego fue desarrollado para máquinas recreativas y posteriormente fue portado a Sega Saturn, Sega Dreamcast, Windows y finalmente a Xbox Live y PlayStation Network.\n\nEl jugador compite usando un automóvil de serie (similar a los mostrados en NASCAR), solo contando con tres circuitos para elegir, así como puede optar por transmisión automática o manual. Para dificultar las cosas, Daytona USA tiene límite de tiempo, en donde si no cruza el punto de control o la línea de meta antes de que se acabe el tiempo, acaba la partida.\n\nCada máquina de videojuegos cuenta con cabinas o habitáculos de conducción simples o dobles, provistos a cada cabina de un volante que gracias a un sistema de contrapesos y vibradores emula las vibraciones y los \"tirones\" que un verdadero auto transmitiría, generando mayor realismo en el jugador. Cuenta con dos pedales, uno de freno y un acelerador, cuatro botones de selector visual, que son parachoques, interior, exterior cercano y exterior lejano, y una caja de cambios de cuatro marchas en forma de \"H\", ubicada a la derecha del volante.\n\nCabe mencionar que las cabina...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918674.1329331,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El transformismo es un sustantivo usado para referirse a la caracterización o disfraz mediante el cual una persona ocasionalmente adopta los modismos culturales que convencionalmente se le asignan al sexo contrario. Esto puede estar relacionado o no con la identidad sexual, y el mismo sustantivo se puede aplicar a las mujeres que simulan el rol masculino.\nEnlace: https://es.wikipedia.org/wiki/Transformismo (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl transformismo es un sustantivo usado para referirse a la caracterización o disfraz mediante el cual una persona (generalmente de sexo masculino) ocasionalmente adopta los modismos culturales (maquillaje, vestimenta, gestos, forma de hablar) que convencionalmente se le asignan al sexo contrario. Esto puede estar relacionado o no con la identidad sexual, y el mismo sustantivo se puede aplicar a las mujeres que simulan el rol masculino. \n\nMuchas culturas incluyen esta práctica como una expresión artística, como es el caso de los onnagatas del teatro kabuki japonés, o los actores masculinos que representaban roles femeninos en la ópera tradicional china, así como también se acostumbraba en siglos pasados en el teatro de algunos países de Europa, cuando las mujeres tenían prohibido ser actrices.\n\nEjemplos modernos de transformismo no relacionado con la identidad sexual podrían ser las películas hollywoodienses Victor Victoria (1982), Tootsie (1982) y Mrs. Doubtfire (1993), donde sus protagonistas (Julie Andrews, Dustin Hoffman y Robin Williams, respectivamente) interpretan a personajes que por peripecias diversas, han de encubrir su identidad simulando pertenecer al sexo contrario.\n\n...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918675.627985,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "El Museo Nacional de Ciencias de Gwacheon es un museo de la ciudad de Gwacheon, noroeste de Corea del Sur, inaugurado en 2008.\nEnlace: https://es.wikipedia.org/wiki/Museo_Nacional_de_Ciencias_de_Gwacheon (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Museo Nacional de Ciencias de Gwacheon es un museo de la ciudad de Gwacheon, noroeste de Corea del Sur, inaugurado en 2008.[1]​[2]​[3]​\n\nEl salón de la fama es un lugar para honrar los logros de los científicos que contribuyeron al desarrollo de la ciencia y la tecnología y para observar cómo ésta se ha desarrollado, y lo que ha logrado en Corea. Está dedicado a 31 científicos honorables como Jang Yeong-sil, Heo Jun, Benjamin Whisoh Lee y Seok Joo-myung. Consta de 35 exhibiciones, incluidas dos exhibiciones experimentales como «Yo también soy un científico honorable», en la cual los logros de los científicos son presentados allí a través de narraciones.[4]​[5]​[6]​\n\nAl igual que la invención de las armas de pólvora por Moo-seon Choi o las obras del famoso ingeniero de Joseon, Young-shil Jang, aquí se pueden apreciar los brillantes logros de las principales figuras que lideraron la ciencia y la tecnología en los siglos XIV y XV. Aquí se exhiben logros y reliquias de los científicos que lideraron la ciencia y la tecnología, como Joon Heo y Dae-yong Hong.[7]​\n\nAquí se honran a los científicos que contribuyeron en que Corea ingresara la lista de los diez países más desarrollados en ...",
+    "tipo": "preferencia",
+    "timestamp": 1746918678.3081641,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "nombre",
+      "ubicacion",
+      "cumpleaños",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "El Consejo de Ministros es el principal órgano colegiado de decisión del Gobierno de España, formado por el presidente del Gobierno, los vicepresidentes, si los hubiere, y los ministros. Habitualmente se reúne una vez por semana, los martes laborables a las 09:30 horas en el Palacio de la Moncloa, en Madrid, aunque en caso de ser ese martes festivo, puede trasladarse dicha reunión a otro día laborable de la semana. Además, con carácter extraordinario, pueden celebrarse a cualquier día y hora cuantas reuniones del Consejo de Ministros sean oportunas, tanto en el Palacio de la Moncloa como en cualquier otra parte del territorio nacional. También puede ser presidido por el rey de España, a petición del presidente del Gobierno, en cuyo caso el Consejo informa al rey sobre los asuntos de Estado, de acuerdo con lo dispuesto en el artículo 62 de la Constitución.\nEnlace: https://es.wikipedia.org/wiki/Consejo_de_Ministros_(España) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Consejo de Ministros es el principal órgano colegiado de decisión del Gobierno de España, formado por el presidente del Gobierno, los vicepresidentes, si los hubiere, y los ministros. Habitualmente se reúne una vez por semana, los martes laborables a las 09:30 horas en el Palacio de la Moncloa, en Madrid, aunque en caso de ser ese martes festivo, puede trasladarse dicha reunión a otro día laborable de la semana. Además, con carácter extraordinario, pueden celebrarse a cualquier día y hora cuantas reuniones del Consejo de Ministros sean oportunas, tanto en el Palacio de la Moncloa como en cualquier otra parte del territorio nacional. También puede ser presidido por el rey de España, a petición del presidente del Gobierno, en cuyo caso el Consejo informa al rey sobre los asuntos de Estado, de acuerdo con lo dispuesto en el artículo 62 de la Constitución.\n\nLa convocatoria y la presidencia del Consejo de Ministros corresponde (salvo en caso de presencia del rey) al presidente del Gobierno, actuando como secretario el ministro de la Presidencia. Sus reuniones, de las que se levantará acta pública, podrán tener carácter deliberante y/o decisorio. En las actas figurarán, exclusivamente...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918679.8255143,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El aprendizaje semipresencial se refiere a la combinación del trabajo presencial, y del trabajo en línea, en donde la persona que es estudiante puede controlar algunos factores como el lugar, momento y espacio de trabajo. También puede entenderse como la combinación eficiente de diferentes métodos de impartición, modelos de enseñanza, cursos de incorporación y estilos de aprendizaje.\nEnlace: https://es.wikipedia.org/wiki/Aprendizaje_semipresencial (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl aprendizaje semipresencial (en inglés blended learning o b-learning) se refiere a la combinación del trabajo presencial (en aula), y del trabajo en línea (combinando Internet y medios digitales),[1]​ en donde la persona que es estudiante puede controlar algunos factores como el lugar, momento y espacio de trabajo. También puede entenderse como la combinación eficiente de diferentes métodos de impartición, modelos de enseñanza, cursos de incorporación y estilos de aprendizaje.[2]​\n\nDado que el aprendizaje semipresencial depende en gran medida del contexto, resulta difícil establecer una concepción universal del mismo.[3]​ Algunos informes han afirmado que la falta de consenso sobre una definición firme del aprendizaje mixto ha provocado dificultades en la investigación sobre su eficacia. Un estudio muy citado de 2013 definió a grandes rasgos el aprendizaje mixto como una mezcla de enseñanza en línea y presencial en la que la parte en línea sustituye efectivamente parte del tiempo de contacto presencial en lugar de complementarlo.\n\nAdemás, un metaanálisis de 2015 que realizó una amplia revisión de estudios de investigación basados en la evidencia en torno al aprendizaje semipresen...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918681.2947166,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La cultura de Honduras es el conjunto de expresiones de un pueblo, que representan la mayor parte de un país como: las costumbres, prácticas, códigos, normas y reglas de la manera de ser, vestirse, religión, rituales, normas de comportamiento y sistemas de creencias.\nEnlace: https://es.wikipedia.org/wiki/Cultura_de_Honduras (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa cultura de Honduras es el conjunto de expresiones de un pueblo, que representan la mayor parte de un país como: las costumbres, prácticas, códigos, normas y reglas de la manera de ser, vestirse, religión, rituales, normas de comportamiento y sistemas de creencias. \n\nHonduras es un país multiétnico, por consiguiente es un país multicultural. La composición étnica de Honduras es la siguiente: 2% blancos, 2,9% negros garífunas, 7% indígenas y el 87% de la población predominantemente es mestiza.\n\nC\ncas donde concurren grandes audiencias o espectáculos. Tales exposiciones artístico-culturales se llevan a cabo durante determinados días del año a través de celebraciones muy creativas.\n\nA través de todo el año se celebran en Honduras diversas ferias patronales entre las que destacan:\n\nEntre los días de asueto más populares está el 15 de septiembre, Día de la Independencia de Honduras. Esta conmemoración, se lleva a cabo con desfiles de las escuelas y colegios de todo el país. También participan, algunas compañías quienes adornan el desfile con carrozas de cualquier tipo. A partir de la conquista de Honduras la religión predominante en el país es la católico, debido a ello se le da espec...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918682.6525762,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "Práctica puede referirse a:\nEnlace: https://es.wikipedia.org/wiki/Práctica (Fuente: Wikipedia)",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918685.5385628,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Javascript-C es la versión SpiderMonkey de Mozilla ,es decir un lenguaje cruzado, para la interpretación de objetos del mediante Gecko-JavaScript invocado en C++, lo que permite a la Programación orientada a objetos hasta el Modelo en Objetos para la representación de Documentos de una aplicación. Los archivos *.c, *.h y *.o se vinculan mediante unos #include por cada archivo, que para que funcione tiene que haber los archivos del jsapi  Archivado el 24 de abril de 2006 en Wayback Machine.\nEnlace: https://es.wikipedia.org/wiki/Javascript-C (Fuente: Wikipedia)\n\n[Contenido extendido:]\nJavascript-C es la versión SpiderMonkey de Mozilla ,es decir un lenguaje cruzado, para la interpretación de objetos del mediante Gecko-JavaScript invocado en C++, lo que permite a la Programación orientada a objetos hasta el Modelo en Objetos para la representación de Documentos de una aplicación. Los archivos *.c, *.h y *.o se vinculan mediante unos #include por cada archivo, que para que funcione tiene que haber los archivos del jsapi  Archivado el 24 de abril de 2006 en Wayback Machine.\n\nEl primer paso lo inicia la aplicación que manda una instrucción , que luego, el motor de Javascript la interpreta y hace las manipulaciones pertinentes y después devuelve un valor.\nCon la función JS_NewRuntime se pasa las instrucciones y devuelve el valor pertinente.\n\nLas ayudas de motor de JS (JavaScript) JS 1,0 JS directo 1,4. JS 1,3 y mayor se conforman\ncon la especificación ECMAScript-262. En su más simple, el motor de JS analiza, compila, \ny ejecuta las escrituras que contienen declaraciones y funciones de JS. El motor maneja la \nasignación de memoria para los tipos de datos de JS y se opone necesario para ejecutar las \nescrituras, y limpia para arriba -- la basura recoge -- los tipos y lo...",
+    "tipo": "comando",
+    "timestamp": 1746918689.8933835,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "María Isabel Gea Ortigas (1956) es una escritora y periodista española. Licenciada en Ciencias de la Información por la Universidad Complutense de Madrid.\nEnlace: https://es.wikipedia.org/wiki/Isabel_Gea (Fuente: Wikipedia)\n\n[Contenido extendido:]\nMaría Isabel Gea Ortigas (1956)[1]​ es una escritora y periodista española. Licenciada en Ciencias de la Información por la Universidad Complutense de Madrid. \n\nAutora prolífica de estudios, recopilaciones, reediciones y anecdotarios sobre diversos aspectos relacionados con Madrid, publicó en 1989 su primer libro, Casas, casos y cosas de Madrid.[a]​[2]​\n\nDe entre su abundante obra pueden destacarse un Diccionario Enciclopédico de Madrid, una Guía del Patrimonio Artístico de Madrid, sus monografías sobre la Historia de los distritos de Madrid, una Guía del Plano de Texeira (1656) y su aportación al Madrid desaparecido....",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918692.860388,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Puerto Carreño es un municipio colombiano, ciudad fronteriza y capital del departamento del Vichada. Es reconocido como un destino para el turismo sostenible, un punto de encuentro ecológico para organizaciones no gubernamentales, un centro cultural indígena y el principal puerto fluvial del país sobre el río Orinoco. La ciudad es igualmente conocida por su cultura llanera, similar a la del nororiente de Colombia y el interior de Venezuela.\nEnlace: https://es.wikipedia.org/wiki/Puerto_Carreño (Fuente: Wikipedia)\n\n[Contenido extendido:]\nPuerto Carreño es un municipio colombiano, ciudad fronteriza y capital del departamento del Vichada. Es reconocido como un destino para el turismo sostenible, un punto de encuentro ecológico para organizaciones no gubernamentales, un centro cultural indígena y el principal puerto fluvial del país sobre el río Orinoco. La ciudad es igualmente conocida por su cultura llanera (música, vestimenta, modismos, y baile), similar a la del nororiente de Colombia y el interior de Venezuela.[4]​\n\nSu población es de 20 936 habitantes (2018), su área es de 12 409 km² y se encuentra en la frontera con Venezuela, colindando al norte del río Meta con Puerto Páez. Su economía depende en gran medida de su capacidad para abastecer las necesidades de los pueblos remotos y del otro lado del río Orinoco en Venezuela.[5]​\n\nFundada oficialmente en 1922 por el nombre de su primer comisario, sobre la confluencia de los ríos Orinoco y Meta, las actividades comerciales y de transporte de mercancías del departamento se llevan a través de su puerto fluvial. Se puede llegar al municipio por vía aérea (desde Bogotá o Villavicencio), también fluvial (desde Puerto López o Puerto Gaitán, por el río Meta) o terrestre ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918694.2160172,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "Un videojuego para móviles es un videojuego que es desarrollado para jugarse en teléfonos móviles, PDA, teléfonos inteligentes y dispositivos móviles.\nEnlace: https://es.wikipedia.org/wiki/Videojuego_para_móviles (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUn videojuego para móviles es un videojuego que es desarrollado para jugarse en teléfonos móviles, PDA, teléfonos inteligentes y dispositivos móviles.\n\nLos videojuegos para móvil son desarrollados usando tecnologías como J2ME (Java2 Micro Edition) de Sun Microsystems, Brew de Qualcomm (Binary Runtime for Wireless) o ExEn de Infusión (Execution Environment). Hay otras plataformas disponibles como Symbian OS pero no son tan habituales, por su incompatibilidad entre dispositivos.\n\nLos videojuegos para móvil tienden a ser de ámbito muy pequeño y a menudo se basan en ofrecer una buena jugabilidad a pesar de no tener unos gráficos asombrosos. Esto se debe a la falta de potencia del procesador de los dispositivos, aunque en muchas ocasiones es la propia tecnología sobre la que se programa la que realmente limita la aplicación.\n\nA finales de los años 1990 los teléfonos móviles todavía eran aparatos que solo servían para llamar. Algunos fabricantes como Nokia decidieron ofrecer algún tipo de entretenimiento en esos pequeños dispositivos que tenían botones y una pantalla LCD en blanco y negro, compañías como Nokia o Philips introdujeron pequeños juegos basándose en las primeras arcade y cons...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918695.616877,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Se denomina democracia popular a un tipo de régimen político. Su expresión institucional son los autodenominados Estados socialistas, que existieron durante el siglo XX, aunque algunos han sobrevivido en el siglo XXI. Solían disponer en el nombre oficial del Estado de la expresión República Popular o República Democrática. Las democracias populares, a diferencia de otros regímenes contemporáneos no liberales que también proclaman ser democráticos, suelen anclar su discurso legitimador en la construcción de una sociedad socialista atendiendo a las características peculiares de cada país, respetando siempre los principios del internacionalismo proletario.\nEnlace: https://es.wikipedia.org/wiki/Democracia_popular (Fuente: Wikipedia)\n\n[Contenido extendido:]\nSe denomina democracia popular a un tipo de régimen político. Su expresión institucional son los autodenominados Estados socialistas, que existieron durante el siglo XX, aunque algunos han sobrevivido en el siglo XXI. Solían disponer en el nombre oficial del Estado de la expresión República Popular o República Democrática (que por tanto, puede considerarse como una forma de gobierno). Las democracias populares, a diferencia de otros regímenes contemporáneos no liberales que también proclaman ser democráticos, suelen anclar su discurso legitimador en la construcción de una sociedad socialista atendiendo a las características peculiares de cada país, respetando siempre los principios del internacionalismo proletario.\n\nEstos regímenes han sido institucionalmente variados, aunque según sus críticos, en todos ellos el pluralismo es limitado o en la práctica inexistente. En ocasiones solo se permite la existencia de un único partido político, en otras pueden coexistir dos, uno urbano y otro agrario, unidos por el Estado y sin competir entre ellos. En gran parte de los casos existían varios partidos políticos de distinta ideología unidos bajo un Frente Nacional o Popular, como el Frente N...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918698.818272,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Colombia, oficialmente República de Colombia, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, social y democrático de derecho, cuya forma de gobierno es de República presidencialista; con dos cámaras legislativas, también por sufragio directo, voluntario y secreto, con 4 años de mandato, pero que en cambio sí pueden ser reelegidos. Su capital y ciudad más poblada es Bogotá. Es una república organizada políticamente en treinta y dos departamentos descentralizados y el Distrito Capital de Bogotá, sede del Gobierno nacional.\nEnlace: https://es.wikipedia.org/wiki/Colombia (Fuente: Wikipedia)\n\n[Contenido extendido:]\nColombia, oficialmente República de Colombia, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, social y democrático de derecho, cuya forma de gobierno es de República presidencialista; con dos cámaras legislativas (Cámara de Representantes y Senado), también por sufragio directo, voluntario y secreto, con 4 años de mandato, pero que en cambio sí pueden ser reelegidos. Su capital y ciudad más poblada es Bogotá.[13]​ Es una república organizada políticamente en treinta y dos departamentos descentralizados y el Distrito Capital de Bogotá,[14]​ sede del Gobierno nacional.\n\nIncluyendo la isla de Malpelo, el cayo Roncador y el banco Serrana, el país abarca una superficie de 1 141 748 km²,[3]​ por lo que es el vigesimoquinto país más grande del mundo y el séptimo más grande de América. Reclama como mar territorial el área hasta las 12 millas náuticas de distancia,[4]​ manteniendo un diferendo limítrofe al respecto con Venezuela y Nicaragua.[15]​[16]​\n\nLimita al norte, con el océano Atlántico; al este, con Venezuela y Brasil; al sur con Perú y Ecuador; y al oeste, con el océano Pacífico y Panamá.[17]​ Tiene costas en el océano ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918700.7842166,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El portugués () es una lengua romance flexiva, perteneciente a la familia de lenguas indoeuropeas y procedente del galaicoportugués. Tras la independencia de Portugal del Reino de Galicia y del Reino de León en 1139 y la posterior Reconquista hacia el sur, el galaicoportugués se fue expandiendo por los límites del actual Portugal. Asimismo, la lengua se fue difundiendo en el periodo de los descubrimientos por Brasil, seis países en África y otras partes del mundo.\nEnlace: https://es.wikipedia.org/wiki/Idioma_portugués (Fuente: Wikipedia)\n\n[Contenido extendido:]\nIndoeuropeo\n Itálico\n  Romance\n   Romance occidental\n    Iberorromance\n     Iberorromance occidental\n       Galaico-portuguesa\n\n Angola\n Brasil\n Cabo Verde\n Guinea-Bisáu\n Guinea Ecuatorial \n Mozambique\n Portugal\n Santo Tomé y Príncipe\n Timor Oriental\n\nEl portugués (portuguêsⓘ) es una lengua romance flexiva, perteneciente a la familia de lenguas indoeuropeas y procedente del galaicoportugués. Tras la independencia de Portugal del Reino de Galicia y del Reino de León en 1139 y la posterior Reconquista hacia el sur, el galaicoportugués se fue expandiendo por los límites del actual Portugal. Asimismo, la lengua se fue difundiendo en el periodo de los descubrimientos por Brasil, seis países en África y otras partes del mundo.[2]​\n\nCon aproximadamente 230 millones de hablantes nativos y entre 25 y 30 millones de hablantes de segunda lengua, el portugués suele figurar como la sexta lengua nativa más hablada del mundo (y la octava en total), la tercera lengua europea más hablada en términos de hablantes nativos[3]​ y la segunda lengua romance más hablada a nivel nativo (tercera en total de hablantes). Siendo el idioma más hablado en Sudamérica[4]​[5]​ y todo el Hemisferio Sur,[6]​ también ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918702.3831308,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "La historia del idioma español o idioma castellano se remonta comúnmente al período prerromano puesto que es posible que las lenguas prerromanas de la península ibérica ejercieran una influencia en el latín hispánico de la que podrían derivar algunas características de las lenguas romances peninsulares. La historia del idioma español se suele dividir convencionalmente en tres periodos: español medieval, español medio y español moderno.\nEnlace: https://es.wikipedia.org/wiki/Historia_del_idioma_español (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa historia del idioma español o idioma castellano se remonta comúnmente al período prerromano puesto que es posible que las lenguas prerromanas de la península ibérica ejercieran una influencia en el latín hispánico de la que podrían derivar algunas características de las lenguas romances peninsulares. La historia del idioma español se suele dividir convencionalmente en tres periodos: español medieval, español medio y español moderno.\n\nEl castellano es una lengua romance, derivada del latín vulgar, que pertenece a la subfamilia itálica dentro del conjunto indoeuropeo. Es la principal lengua en España y 19 países americanos, y es oficial también en Guinea Ecuatorial. Es también llamada castellano por tener su origen en el reino medieval de Castilla.\n\nLa historia externa del español alude a la descripción cronológica de las influencias culturales, históricas, políticas y sociales que influyeron en los hechos lingüísticos. La historia externa contrasta con la historia interna (a veces llamada gramática histórica) del español, que refiere a la descripción cronológica y la sucesión de cambios acaecidos dentro del propio sistema de la lengua.\n\nLos aportes prerromanos a la lengua español...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918705.249089,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "CodeGear ECO es una Model Driven Architecture implementado por la compañía CodeGear.\nEnlace: https://es.wikipedia.org/wiki/CodeGear_ECO (Fuente: Wikipedia)\n\n[Contenido extendido:]\nCodeGear ECO (abreviación para Enterprise Core Objects™) es una Model Driven Architecture implementado por la compañía CodeGear.\n\nEstá diseñado para incrementar significativamente la productividad de los desarrolladores proveyéndoles las siguientes facilidades:\n\nECO está dirigido al .NET Framework y es vendido como parte de los entornos de desarrollo de CodeGear como pueden ser C# o Delphi.\n\nUn verdadero entorno de modelado model driven es una parte central de una aplicación ECO. El desarrollador altera el modelo y los cambios son aplicados automáticamente a la implementación subyacente. Esto permite a los desarrolladores concentrarse en modelar el problema del dominio en lugar de atorarse en implementaciones específicas.\n\nEn particular no hay necesidad de preocuparse del diseño de la base de datos que hacen las aplicaciones ECO más objeto relacionales y menos orientado a bases de datos. La construcción del modelo en ECO se hace en un editor visual de UML. El código correspondiente es generado al vuelo en cualquiera de los lenguajes C# o Delphi.NET.\n\nHay dos tipos de modelos soportados por ECO: diagramas de clases y diagramas de estados. Los diagramas de clase son usados para defin...",
+    "tipo": "comando",
+    "timestamp": 1746918711.1645803,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "El español o castellano es una lengua romance procedente del latín hablado, perteneciente a la familia de lenguas indoeuropeas. Forma parte del grupo ibérico y es originaria de Castilla, reino medieval de la península ibérica. \nActualmente, hay más de 600 millones de personas que hablan español, de las cuales casi 500 millones son hablantes nativos, que se suman a quienes tienen competencia limitada y los estudiantes.\nEnlace: https://es.wikipedia.org/wiki/Idioma_español (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl español o castellano es una lengua romance procedente del latín hablado, perteneciente a la familia de lenguas indoeuropeas. Forma parte del grupo ibérico y es originaria de Castilla, reino medieval de la península ibérica. \nActualmente, hay más de 600 millones de personas que hablan español, de las cuales casi 500 millones son hablantes nativos, que se suman a quienes tienen competencia limitada (cerca de 78 millones) y los estudiantes (más de 24 millones).[1]​[2]​[30]​[31]​ \n\nEs el idioma más estudiado en todos los niveles de enseñanza de los Estados Unidos y la segunda lengua más estudiada en la educación secundaria superior de la Unión Europea.[32]​[33]​ A nivel global, es la cuarta lengua más estudiada del mundo, con 24,2 millones de alumnos.[1]​ Es, además, la cuarta lengua más hablada del mundo —tras el inglés, el chino mandarín y el hindi—[34]​[35]​ y la segunda lengua más hablada por número de hablantes nativos, después del chino mandarín.[36]​ Así pues, puede ser considerado como el segundo idioma en comunicación internacional tras el inglés.[37]​[1]​\n\nEl español tiene la tercera población alfabetizada del mundo. En 2008, el español tenía el 5,47% de la población mundi...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918714.6795614,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La selección de fútbol de Colombia es el equipo que representa a dicho país en las competiciones oficiales de fútbol masculino desde 1924. Su organización está a cargo de la Federación Colombiana de Fútbol (FCF) y desde 1936 se encuentra afiliada tanto a la FIFA como a la Conmebol, de la cual es miembro asociado. Disputó su primer encuentro el 17 de febrero de 1926 frente a Costa Rica, a la cual venció por 4-1.\nEnlace: https://es.wikipedia.org/wiki/Selección_de_fútbol_de_Colombia (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa selección de fútbol de Colombia es el equipo que representa a dicho país en las competiciones oficiales de fútbol masculino desde 1924. Su organización está a cargo de la Federación Colombiana de Fútbol (FCF) y desde 1936 se encuentra afiliada tanto a la FIFA como a la Conmebol, de la cual es miembro asociado. Disputó su primer encuentro el 17 de febrero de 1926 frente a Costa Rica, a la cual venció por 4-1.[3]​[4]​\n\nLa selección colombiana ha participado en seis Copas Mundiales de Fútbol (1962, 1990, 1994, 1998, 2014 y 2018). En Brasil 2014 cosechó su mejor participación llegando a cuartos de final, quedando en la quinta posición del torneo.[6]​ Su mayor logro internacional es la Copa América 2001.[7]​ También obtuvo dos subcampeonatos, en 1975 y 2024. Llegaría a semifinales varias veces. El título del 2001 le permitió participar en la Copa FIFA Confederaciones 2003 donde alcanzaría las semifinales y posteriormente el cuarto lugar.[8]​ La 'Tricolor',[2]​ como es conocida, también logró destacadas participaciones internacionales, obteniendo de los Juegos Centroamericanos y del Caribe la medalla de oro en 1946, la medalla de bronce en 1938 y de los Juegos Bolivarianos la medalla ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918716.4049902,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Gamer, una vida más es una serie de televisión por internet de comedia argentina original de Flow. La trama gira en torno a un veterano jugador de videojuegos que intentará adaptarse a un equipo de gaming conformado por chicos de la generación z. Está protagonizada por Nico García, Charo López, Rocío Hernández, Yamila Ostrower y Francisco Bereny. La serie se estrenó el 4 de mayo de 2023.\nEnlace: https://es.wikipedia.org/wiki/Gamer,_una_vida_más (Fuente: Wikipedia)\n\n[Contenido extendido:]\nGamer, una vida más es una serie de televisión por internet de comedia argentina original de Flow.[1]​ La trama gira en torno a un veterano jugador de videojuegos que intentará adaptarse a un equipo de gaming conformado por chicos de la generación z.[2]​ Está protagonizada por Nico García, Charo López, Rocío Hernández, Yamila Ostrower y Francisco Bereny.[3]​ La serie se estrenó el 4 de mayo de 2023.[4]​[5]​\n\nEl desarrollo de la producción inició en 2021 cuando resultó ser uno de los proyectos ganadores del concurso «Renacer Audiovisual», un programa organizado por el Gobierno de Argentina con el fin de fomentar la ficción nacional.[6]​[7]​[8]​\n\nLa serie cuenta la historia de Oscar, un hombre de 45 años que está recién separado y atraviesa por una crisis personal. En su juventud, estaba en su mejor momento al ser uno los campeones máximos de los juegos en línea y era conocido bajo el seudónimo de «Criminal Mambo 78» en todos los cibers de Buenos Aires. Sin embargo, todo eso se acabó cuando apareció Rebo, un empleado inseguro y problemas de acné que progresivamente comenzó a arrebatarle el puesto. Con eso, la llegada de las nuevas formas de consumir tecnología y la presión de su fami...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918718.439179,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Diáspora irlandesa se refiere a las personas que pertenecen al grupo étnico irlandés y a sus descendientes que viven fuera de la isla de Irlanda.\nEnlace: https://es.wikipedia.org/wiki/Diáspora_irlandesa (Fuente: Wikipedia)\n\n[Contenido extendido:]\nDiáspora irlandesa (irlandés: Diaspóra na nGael) se refiere a las personas que pertenecen al grupo étnico irlandés y a sus descendientes que viven fuera de la isla de Irlanda.\n\nEl fenómeno de la emigración de Irlanda se encuentra registrado desde la época de la Alta Edad Media,[1]​ pero sólo ha podido cuantificarse a partir del año 1700, aproximadamente. Desde entonces, han emigrado entre 9 y 10 millones de personas nacidas en Irlanda. Esta cifra es superior a la población de la misma Irlanda, que en su máximo histórico era de 8.5 millones en vísperas de la Gran Hambruna. Los más pobres se fueron a Gran Bretaña, sobre todo a Liverpool. Aquellos que podían permitírselo se fueron más lejos, incluidos los casi 5 millones que se fueron a los Estados Unidos.[2]​\n\nDespués de 1765, la emigración de Irlanda se convirtió en una empresa nacional breve, implacable y gestionada de manera eficiente.[3]​ En 1890, el 40 % de las personas nacidas en Irlanda vivían en el extranjero.[4]​[5]​ Ya para el siglo XXI, unos 80 millones de personas en todo el mundo afirman tener algún tipo de ascendencia irlandesa,[6]​ lo que incluye a más de 34 millones de estadounidenses que afirman que el irlandés es su...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918719.9713912,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Los genes de expresión inmediata temprana o IEGs son genes activados transitoria y rápidamente como respuesta a una amplia variedad de estímulos celulares. Representan un mecanismo de respuesta permanente que es activada a nivel transcripcional como primera respuesta a un estímulo dado.\nEnlace: https://es.wikipedia.org/wiki/Genes_de_expresión_rápida (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLos genes de expresión inmediata temprana o IEGs (de sus siglas en inglés \"Immediate early gene\") son genes activados transitoria y rápidamente como respuesta a una amplia variedad de estímulos celulares. Representan un mecanismo de respuesta permanente que es activada a nivel transcripcional como primera respuesta a un estímulo dado.\n\nSe consideran inmediatos ya que la transcripción de estos genes no requiere de la síntesis de nuevas proteínas. Por ello, los IEGs son diferentes de los genes de \"respuesta tardía\", los cuales únicamente pueden ser activados a continuación de la síntesis de proteínas. \nA su vez se considera que son tempranos ya que son expresados en respuesta a un estímulo celular reciente.  \n\nHasta ahora se han identificado alrededor de 40 IEGs celulares. Los primeros en ser identificados y mejor caracterizados incluyen c-Fos, c-Myc y c-Jun, que son genes homólogos de oncogenes retrovirales. Por ello, los IEGs son bien conocidos como reguladores tempranos de señales de crecimiento y diferenciación celular. Sin embargo, otras investigaciones sugieren papeles adicionales a los IEGs en muchos otros procesos celulares.\n\nSe considera que los IEGs pueden dividirse en fact...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918721.229701,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El vesre, verse o verre es un mecanismo de formación de palabras que consiste en la permutación o metátesis de las sílabas de un vocablo. En su variante rioplatense se trata de una jerigonza utilizada a lo largo de buena parte de los territorios argentino y uruguayo tras ser popularizada por los tangueros a principios del siglo XX.\nEnlace: https://es.wikipedia.org/wiki/Vesre (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl vesre, verse o verre («revés», en forma invertida) es un mecanismo de formación de palabras que consiste en la permutación o metátesis de las sílabas de un vocablo.[1]​ En su variante rioplatense se trata de una jerigonza utilizada a lo largo de buena parte de los territorios argentino y uruguayo tras ser popularizada por los tangueros a principios del siglo XX.\n\nEn la obra Romances de germanía de varios autores, editada en 1609 por Juan Hidalgo, ya aparecen vocablos en vesre, lo que indica su vieja data.\n\nEn cuanto forma de jerigonza, su función ha sido inicialmente cierto grado de complicidad al dificultar –al menos mínimamente– lo expresado en vesre a alguien extraño al endogrupo. Ahora bien, como el vesre puede ser bastante fácilmente \"decodificado\" en poco tiempo por un oyente habitual, su función lingüística actual es la de una coloquialidad que supone un fuerte grado de confianza (aunque en los medios masivos de comunicación esta coloquialidad se transforma en una pseudoconfianza en la cual se implica a la audiencia).\n\nEn el Río de la Plata el hablar al vesre comenzó en el último cuarto del siglo XIX y, como recurso jocoso, fue utilizado por los sainetistas, autores teatr...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918726.0676968,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El Día de Muertos es una festividad tradicional que se celebra principalmente los días 1 y 2 de noviembre, en la que se reúnen familiares y amigos para rendir homenaje y recordar a seres queridos que han fallecido. La festividad se celebra ampliamente en México, donde se desarrolló en gran medida, y en otros países de América Central y la región andina de América del Sur, principalmente del noroeste argentino, del occidente de Bolivia y del sureste de Perú. En España, por su parte, se celebra en eventos culturales de inmigrantes mexicanos integrados en la sociedad española.\nEnlace: https://es.wikipedia.org/wiki/Día_de_Muertos (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Día de Muertos[1]​[2]​ es una festividad tradicional que se celebra principalmente los días 1 y 2 de noviembre, en la que se reúnen familiares y amigos para rendir homenaje y recordar a seres queridos que han fallecido. La festividad se celebra ampliamente en México, donde se desarrolló en gran medida, y en otros países de América Central y la región andina de América del Sur, principalmente del noroeste argentino, del occidente de Bolivia y del sureste de Perú.[3]​ En España, por su parte, se celebra en eventos culturales de inmigrantes mexicanos integrados en la sociedad española.[4]​[5]​\n\nEsta celebración difiere en varios aspectos del Día de Brujas o Halloween y a menudo se les confunde debido a que ambas festividades están relacionadas con el período cristiano de Allhallowtide. La festividad se originó como un sincretismo entre las celebraciones católicas del Día de Todos los Santos y el Día de los Fieles Difuntos con las tradiciones de los indígenas de América.[6]​[7]​\n\nLas tradiciones de esta festividad incluyen elementos distintivos como calaveras y flores de cempasúchil para honrar a los fallecidos. Las familias construyen altares domésticos, denominados ofrendas, donde...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918731.470058,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "Mario  es un personaje ficticio japonés creado por el diseñador de videojuegos Shigeru Miyamoto, de la compañía Nintendo y el protagonista de la franquicia de videojuegos homónima. Actuando como la mascota de la compañía, con su aparición en videojuegos, así como en series de televisión y películas, se ha posicionado como el ícono emblemático de Nintendo, llegando a ser uno de los personajes más famosos de todos los tiempos, junto a su hermano Luigi, quien es su compañero ícono en diversos juegos y lo ayuda a cumplir su misión. Mario es un fontanero italiano que reside en el Reino Champiñón, cuyas aventuras generalmente se centran en rescatar a la Princesa Peach del villano Bowser. Mario tiene acceso a una variedad de potenciadores que le otorgan diferentes habilidades como ser más grande, lanzar bolas de fuego, trepar, planear, volar, saltar más alto, etcétera.\nEnlace: https://es.wikipedia.org/wiki/Mario_(personaje) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nMario (マリオ, Mario?) es un personaje ficticio japonés creado por el diseñador de videojuegos Shigeru Miyamoto, de la compañía Nintendo y el protagonista de la franquicia de videojuegos homónima. Actuando como la mascota de la compañía, con su aparición en videojuegos, así como en series de televisión y películas, se ha posicionado como el ícono emblemático de Nintendo, llegando a ser uno de los personajes más famosos de todos los tiempos, junto a su hermano Luigi, quien es su compañero ícono en diversos juegos y lo ayuda a cumplir su misión. Mario es un fontanero italiano que reside en el Reino Champiñón, cuyas aventuras generalmente se centran en rescatar a la Princesa Peach del villano Bowser. Mario tiene acceso a una variedad de potenciadores que le otorgan diferentes habilidades como ser más grande, lanzar bolas de fuego, trepar, planear, volar, saltar más alto, etcétera.\n\nOriginalmente, Mario fue bautizado con el nombre de Jumpman («hombre saltarín» en inglés) y apareció por primera vez en el videojuego Donkey Kong de 1981, pero después su nombre cambió al conocido actualmente como Mario, en homenaje al nombre del propietario de las primeras oficinas de Nintendo of America, Mar...",
+    "tipo": "preferencia",
+    "timestamp": 1746918732.996422,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "El Pacto Histórico «Colombia Puede» es un partido político colombiano. Fue lanzada el 11 de febrero de 2021 mediante una rueda de prensa en la que participaron varios líderes políticos. La coalición agrupa a partidos y movimientos políticos de izquierda y centroizquierda. Desde el 7 de agosto de 2022, de la mano del presidente Gustavo Petro, es la coalición de Gobierno en Colombia.\nEnlace: https://es.wikipedia.org/wiki/Pacto_Histórico (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Pacto Histórico «Colombia Puede» es un partido político colombiano. Fue lanzada el 11 de febrero de 2021 mediante una rueda de prensa en la que participaron varios líderes políticos.[2]​ La coalición agrupa a partidos y movimientos políticos de izquierda y centroizquierda. Desde el 7 de agosto de 2022, de la mano del presidente Gustavo Petro, es la coalición de Gobierno en Colombia.\n\nEl 11 de febrero de 2021 se presentó oficialmente, en una rueda de prensa, la coalición Pacto Histórico. Fue formada con miras a las elecciones legislativas y presidenciales de 2022. Los líderes y lideresas que conforman la coalición se destacan Gustavo Petro, Roy Barreras, Gustavo Bolívar, Alexander López, Aída Avella, Iván Cepeda, María José Pizarro y Francia Márquez.[2]​ El bloque se planteó y la misión de presentar una lista que obtenga una mayoría en el congreso y una candidatura que pueda llegar a la presidencia de la República, Roy Barreras fue uno de los coordinadores de la creación de la lista cerrada que obtuvo la mayor votación en las elecciones legislativas de 2022.[8]​[9]​\n\nLos movimientos y partidos políticos fundadores de la coalición fueron: Colombia Humana, Unión Patriótica-Partido ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918735.8258507,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Rhino es un intérprete de JavaScript de código abierto desarrollado en lenguaje de programación Java.\nEnlace: https://es.wikipedia.org/wiki/Rhino_(intérprete_de_JavaScript) (Fuente: Wikipedia)\n\n[Contenido extendido:]\nRhino es un intérprete de JavaScript de código abierto desarrollado en lenguaje de programación Java.\n\nRhino comenzó a ser desarrollado en 1997 por Norris Boyd[1]​ para Netscape Communications Corporation. En esos momentos la compañía necesitaba implementar soporte para JavaScript en su proyecto de suite de Internet Javagator.\n\nEn 1998, cuando el proyecto Javagator fue finalmente cancelado, Rhino \nfue liberado bajo Licencia Pública de Netscape[2]​ y entregado a la Fundación Mozilla para que continuara su desarrollo.[3]​\n\nRhino está pensado para ser integrado en otras aplicaciones informáticas, por lo que no hay soporte para objetos propios de un navegador web, comúnmente asociados a JavaScript.\n\nEl nombre Rhino está basado en la tapa del libro Javascript: The Definitive Guide, Third Edition (ISBN 1-56592-392-8), en que se muestra un rinoceronte.[5]​\nEl intérprete de Javascript Rhino, está siendo gradualmente sustituido por Nashorn, un intérprete mucho más rápido y eficiente que también compila a clases de Java....",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918739.891687,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La industria del videojuego es el sector económico involucrado en el desarrollo, la distribución, la mercadotecnia, la venta de videojuegos y del hardware asociado. Engloba a docenas de disciplinas de trabajo y emplea a miles de personas alrededor del mundo.\nEnlace: https://es.wikipedia.org/wiki/Industria_del_videojuego (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa industria del videojuego es el sector económico involucrado en el desarrollo, la distribución, la mercadotecnia, la venta de videojuegos y del hardware asociado. Engloba a docenas de disciplinas de trabajo y emplea a miles de personas alrededor del mundo.\n\nLa industria de videojuegos ha experimentado en los últimos años altas tasas de crecimiento, debido al desarrollo de la computación, capacidad de procesamiento, imágenes más reales y la estrecha relación entre películas de cine y los videojuegos, con lo cual los consumidores reconocen los títulos más pronto; un ejemplo de ello es la compañía Kojima Productions o la plataforma Steam de distribución digital. La industria de videojuegos generó una recaudación mundial de 57.600 millones de euros durante 2009,[1]​ y 91.000 millones de dólares en 2016.[2]​\n\nLa historia de los videojuegos tiene su origen en la década de 1940 cuando, a mediados de la Segunda Guerra Mundial, las potencias vencedoras construyeron los primeros ordenadores programables como ENIAC, de 1946. Los primeros intentos por implementar programas de carácter lúdico (inicialmente programas de ajedrez) no tardaron en aparecer, y se fueron repitiendo durante las sigui...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918741.2518163,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "La curiosidad es un comportamiento instintivo natural, evidente por la observación en muchas especies animales, y es el aspecto emocional en seres vivos que engendra la exploración, la investigación, y el aprendizaje. Esencialmente, describe un número desconocido de mecanismos del comportamiento psicológico que tienen el efecto de impulsar a los individuos, humanos y no humanos, a buscar la información y la interacción con su ambiente natural y con otros seres a su alrededor.\nEnlace: https://es.wikipedia.org/wiki/Curiosidad (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa curiosidad es un comportamiento instintivo natural, evidente por la observación en muchas especies animales, y es el aspecto emocional en seres vivos que engendra la exploración, la investigación, y el aprendizaje. Esencialmente, describe un número desconocido de mecanismos del comportamiento psicológico que tienen el efecto de impulsar a los individuos, humanos y no humanos, a buscar la información y la interacción con su ambiente natural y con otros seres a su alrededor.\n\nLa curiosidad es, sobre todo, un instinto natural. Confiere una ventaja de supervivencia a ciertas especies y se puede encontrar en sus genomas. Es algo natural que le sucede a los seres humanos y a los animales, especialmente a los individuos más jóvenes.\n\nLa curiosidad puede considerarse una cualidad innata de muchas especies diferentes. Es común a los seres humanos en todas las edades desde la infancia[1]​ hasta la edad adulta,[2]​ y es fácil de observar en muchas otras especies animales; entre ellas, los simios, los gatos y los roedores.[3]​ Las primeras definiciones citan la curiosidad como un deseo motivado de información.[4]​ Se ha dicho que este deseo de motivación surge de una pasión o un apetito de ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918742.5278504,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "A través de la historia, las fronteras y la organización territorial de Colombia han sufrido diversas transformaciones, debido particularmente a criterios políticos, poblacionales y en mucha menor medida culturales, entre otros factores. Si bien los gobiernos de las diferentes épocas han tratado de organizar el territorio nacional para una mejor administración, por lo general los límites artificiales impuestos para las entidades subnacionales siguieron el perfil que se configuró en la conquista y colonia española.\nEnlace: https://es.wikipedia.org/wiki/Historia_territorial_de_Colombia (Fuente: Wikipedia)\n\n[Contenido extendido:]\nA través de la historia, las fronteras y la organización territorial de Colombia han sufrido diversas transformaciones, debido particularmente a criterios políticos, poblacionales y en mucha menor medida culturales,[1]​ entre otros factores (tanto internos como externos al país). Si bien los gobiernos de las diferentes épocas han tratado de organizar el territorio nacional para una mejor administración, por lo general los límites artificiales impuestos para las entidades subnacionales siguieron el perfil que se configuró en la conquista y colonia española.\n\nEs de notar que muchos de los cambios más profusos se realizaron a lo largo del siglo XIX, época de la independencia de Colombia y también de las guerras civiles más sangrientas que ha vivido el país.\n\nLa historia de la organización política y administrativa de Colombia no comienza, de modo alguno, con la llegada de los españoles al continente americano. Antes de ocurrido este suceso, existieron numerosos pueblos con sus propias estructuras culturales, que variaban de uno a otro. Uno de los principales pueblos, y quizás el más desarrollado, que habitaron el territorio colombiano fue el grupo aborigen de los Muiscas, que formaron...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918744.0317066,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Quo fue una revista de periodicidad mensual editada entre 1995 y 2019. Abordaba la divulgación científica a través del pensamiento y el entretenimiento. Incluía contenidos en los que se trataban temas de salud, ciencia, tecnología, historia, ecología, tecnología, nutrición y psicología.\nEnlace: https://es.wikipedia.org/wiki/Quo (Fuente: Wikipedia)\n\n[Contenido extendido:]\nQuo fue una revista de periodicidad mensual editada entre 1995 y 2019. Abordaba la divulgación científica a través del pensamiento y el entretenimiento. Incluía contenidos en los que se trataban temas de salud, ciencia, tecnología, historia, ecología, tecnología, nutrición y psicología. \n\nLa revista fue creada por la filial española de la editorial francesa Hachette Filipacchi. Fue lanzada en España en 1995. Su primer director fue Óscar Becerra y el director de arte era Pancho Guijarro. Becerra y Guijarro contaron con los periodistas Javier Huerta y Aitor Marín como únicos redactores en la primera etapa de la publicación. Juan Caño, exvicepresidente editorial de Hachette, estuvo muy involucrado en el desarrollo creativo de la publicación. También estuvo dirigida por Palma Granados. Su último director fue Jorge Alcalde.\n\nEl Grupo Zeta lanzó CNR en España pocos meses después, una revista muy semejante a Quo. Hachette Filipacchi denunció a su competidora. Sin embargo, no fue la Justicia la que acabó con CNR, sino su escasa difusión. En julio de 2006 abandonó definitivamente su cita en los kioscos.\n\nEn 1997 surgió la edición mexicana, publicada por Editorial Televisa y dirigida por Gab...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918748.1420274,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "Neversoft Entertainment fue una desarrolladora de videojuegos fundada en 1994 en California, por Joel Jewett, Mick West y Chris Ward. Fue adquirida en 1999 por Activision, y fusionada con Infinity Ward el 10 de julio de 2014.\nEnlace: https://es.wikipedia.org/wiki/Neversoft (Fuente: Wikipedia)\n\n[Contenido extendido:]\nNeversoft Entertainment fue una desarrolladora de videojuegos fundada en 1994 en California, por Joel Jewett, Mick West y Chris Ward. Fue adquirida en 1999 por Activision, y fusionada con Infinity Ward el 10 de julio de 2014.\n\nLa empresa fue fundada en 1994 por tres miembros de Malibu Interactive, (antes conocida como Acme Interactive) una división de Malibu Comics. Comenzó, pues, trabajando con las consolas de 16-bits de por aquel entonces como la Mega Drive/Genesis y la Super Nintendo. Sin embargo, su éxito llegaría de la mano de las famosas sagas de videojuegos Tony Hawk's Pro Skater, que vio su primera edición en 1999. Desde entonces, Neversoft y Activision han lanzado 9 entregas de estos videojuegos, convirtiéndose en el emblema de esta empresa californiana.\n\nOtra serie de videojuegos que han alcanzado la fama últimamente con Neversoft es Guitar Hero. También han sido desarrollados por Neversoft títulos como GUN o Kelly Slater's Pro Surfer, el juego basado en el surfista Kelly Slater y que, prácticamente es la versión surfera de los juegos de Tony Hawk.\n\nEl 11 de enero de 2009, el presidente de Neversoft, Joel Jewett, anunció que la compañía dejaba de desarrollar la serie de v...",
+    "tipo": "preferencia",
+    "timestamp": 1746918749.5083363,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "El Chavo Kart es un videojuego de carreras desarrollado por Efecto Studios y publicado por Slang para las consolas Xbox 360 y PlayStation 3. Fue lanzado solamente en México y Brasil: el 21 de febrero de 2014 en México y el 17 de junio del mismo año en Brasil, disponible en los idiomas español, inglés y portugués y con las voces en español y portugués.\nEnlace: https://es.wikipedia.org/wiki/El_Chavo_Kart (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Chavo Kart (Chaves Kart en Brasil) es un videojuego de carreras desarrollado por Efecto Studios y publicado por Slang para las consolas Xbox 360 y PlayStation 3.[2]​[1]​ Fue lanzado solamente en México y Brasil: el 21 de febrero de 2014 en México y el 17 de junio del mismo año en Brasil, disponible en los idiomas español, inglés y portugués y con las voces en español y portugués.[3]​ \n\nEl juego se basa en la serie animada El Chavo animado, producida originalmente en México por Ánima Estudios, Televisa y Grupo Chespirito. El 12 de marzo de 2015 salió una versión del juego desarrollada por Kokonut Studio y publicada por Slang para toda Latinoamérica en dispositivos móviles de Samsung ya sea para tableta o celular, sin embargo, a principios de 2018 fue eliminado.[3]​\n\nEl Chavo Kart consiste en los personajes de la serie (excepto Jamito y Gloria) conduciendo Go-karts en lugares presentados en la serie. El juego ofrece veinte circuitos y doce personajes. Hay tres modos de juego: copas, exhibición, desafíos. En el modo \"copas\", el jugador puede desbloquear personajes, mientras que al finalizar \"desafíos\", se desbloquean escenarios o pistas. Se pueden juntar power-ups a lo largo de la ...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918750.7847323,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "María Jesús Montero Cuadrado es una médica, gestora sanitaria y política española, actual vicepresidenta primera del Gobierno de España desde diciembre de 2023 y ministra de Hacienda desde junio de 2018. Asimismo, es vicesecretaria general del PSOE desde julio de 2022. Diputada en la XIII, XIV y XV legislaturas por Sevilla, entre 2004 y 2018 ocupó el cargo de consejera en diversos departamentos de la Junta de Andalucía.\nEnlace: https://es.wikipedia.org/wiki/María_Jesús_Montero (Fuente: Wikipedia)\n\n[Contenido extendido:]\nMaría Jesús Montero Cuadrado (Sevilla, 4 de febrero de 1966) es una médica, gestora sanitaria y política española, actual vicepresidenta primera del Gobierno de España desde diciembre de 2023 y ministra de Hacienda desde junio de 2018. Asimismo, es vicesecretaria general del PSOE desde julio de 2022. Diputada en la XIII, XIV y XV legislaturas por Sevilla, entre 2004 y 2018 ocupó el cargo de consejera en diversos departamentos de la Junta de Andalucía.\n\nDesde el 18 de enero de 2025 es la Secretaria General del PSOE de Andalucía. Su proclamación fue automática al no reunir finalmente los avales necesarios ningún otro candidato o candidata.[2]​ En el Congreso de Armilla (Granada)[3]​ celebrado el 22-23-24 de febrero se produjo su proclamación formal. \n\nNacida el 4 de febrero de 1966 en Sevilla,[4]​ es hija de profesores.[5]​ Se crio en el sevillano barrio de Triana.[6]​ Militó durante su carrera universitaria en los movimientos cristianos de base, y junto a su pareja cambió hacia las Juventudes Comunistas.[7]​ Se licenció en Medicina y Cirugía por la Universidad de Sevilla. Fue presidenta de la Comisión de Marginación del Consejo de la Juventud de Andalucía entre 1986 y 1988, y, poste...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918752.0755696,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Una jerga carcelaria o jerga de prisión es un argot utilizado principalmente por delincuentes y detenidos en instituciones correccionales. Es una forma de antilengua. Muchos de los términos se refieren al comportamiento delictivo, la vida en prisión, los casos legales, la vida en la calle y diferentes tipos de reclusos. Varía según la institución, la región y el país. Este slang de prisión se puede encontrar en otras formas escritas como diarios, cartas, tatuajes, baladas, canciones y poemas.\nEnlace: https://es.wikipedia.org/wiki/Jerga_carcelaria (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUna jerga carcelaria o jerga de prisión es un argot utilizado principalmente por delincuentes y detenidos en instituciones correccionales. Es una forma de antilengua.[1]​ Muchos de los términos se refieren al comportamiento delictivo, la vida en prisión, los casos legales, la vida en la calle y diferentes tipos de reclusos. Varía según la institución, la región y el país.[2]​ Este slang de prisión se puede encontrar en otras formas escritas como diarios, cartas, tatuajes, baladas, canciones y poemas. \n\nLa jerga ha existido desde que ha habido delitos y prisiones; en la época de Charles Dickens se lo conocía como \"cantor de ladrones\". Las palabras de un argot de prisión a menudo se vuelven de uso común, tales como \"snitch\", \"ducking\" y \"narc\" en el idioma inglés. Los términos también pueden perder significado o volverse obsoletos, como \"slammer\" y \"bull-derm\". Normalmente, muchos de estos términos y expresiones pasan a formar parte del lenguaje coloquial del idioma.[3]​\n\nLas jergas carcelarias, al igual que otros tipos de jergas y dialectos, varían según la región. Por esa razón, los orígenes y el movimiento de la jerga de los reclusos a través de las cárceles son de interés para mu...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918753.3637037,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.\nEnlace: https://es.wikipedia.org/wiki/Python (Fuente: Wikipedia)\n\n[Contenido extendido:]\nPython es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.\n\nAdministrado por Python Software Foundation, posee una licencia de código abierto, denominada Python Software Foundation License.[3]​ Python se clasifica constantemente como uno de los lenguajes de programación más populares.[4]​\n\nPython fue creado a finales de los años ochenta por Guido van Rossum en Stichting Mathematisch Centrum (CWI),[5]​ en Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.[6]​\n\nEl nombre del lenguaje proviene de la afición de su creador por los humoristas británicos Monty Python.[7]​\n\nGuido van Rossum es el principal autor de Python, y su continuo rol central en decidir la dirección de Python es reconocido, refiriéndose a él como Benevolente Dictador Vitalicio (en inglés: Benevolent Dictator for Life, BDFL); sin emba...",
+    "tipo": "preferencia",
+    "timestamp": 1746918755.0048144,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Un científico es una persona que participa y realiza una actividad sistemática para generar nuevos conocimientos en el campo de las ciencias, es decir, que realiza investigación científica. El término fue acuñado por el británico William Whewell en 1833.\nEnlace: https://es.wikipedia.org/wiki/Científico (Fuente: Wikipedia)\n\n[Contenido extendido:]\nUn científico (del latín scientificus,[1]​ y a su vez de scientia, 'conocimiento' y -fic, raíz apofónica de facis, 'hacer') es una persona que participa y realiza una actividad sistemática para generar[2]​ nuevos conocimientos en el campo de las ciencias (tanto naturales como sociales), es decir, que realiza investigación científica.[3]​[4]​[5]​ El término fue acuñado por el británico William Whewell en 1833.[6]​[7]​[8]​[9]​[10]​[11]​\n\nEn un sentido más restringido, un científico es una persona que utiliza el método científico.[12]​[13]​ Puede ser experta en una o más áreas de la ciencia.[14]​\n\nEn los tiempos modernos, muchos científicos profesionales se forman en un entorno académico (por ejemplo, universidades e institutos de investigación), principalmente al nivel de las escuelas de posgrado. Al finalizar, normalmente obtendrían un título académico, siendo el título más alto un doctorado, como un Doctor en Filosofía(PhD).[15]​ Aunque la educación de posgrado para científicos varía entre instituciones y países, algunos requisitos de capacitación comunes incluyen especializarse en un área de interés,[16]​ publicar resultados de investigación en revistas científicas revisadas por p...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918756.3917577,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion"
+    ]
+  },
+  {
+    "contenido": "El Consejo de Estado de Cuba, se estableció por la Constitución de 1976, como el órgano superior del Estado, órgano colegiado que constituía el Estado; en la nueva Constitución del 2019 se instituye como órgano responsable ante la Asamblea Nacional del Poder Popular a la cual rinde cuentas, la representa entre los períodos de sesiones, ejecuta los acuerdos de esta y cumple otras funciones que le confiere la ley. Se disminuyó el número de miembros y las funciones y prerrogativas se asemejan a las funciones de las cámaras altas de los parlamentos bicamerales. Es de carácter colegiado. Sus decisiones se toman por el voto de mayoría simple de sus miembros.\nEnlace: https://es.wikipedia.org/wiki/Consejo_de_Estado_de_Cuba (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Consejo de Estado de Cuba, se estableció por la Constitución de 1976, como el órgano superior del Estado, órgano colegiado que constituía el Estado; en la nueva Constitución del 2019 se instituye como órgano responsable ante la Asamblea Nacional del Poder Popular a la cual rinde cuentas, la representa entre los períodos de sesiones, ejecuta los acuerdos de esta y cumple otras funciones que le confiere la ley. Se disminuyó el número de miembros y las funciones y prerrogativas se asemejan a las funciones de las cámaras altas de los parlamentos bicamerales. Es de carácter colegiado. Sus decisiones se toman por el voto de mayoría simple de sus miembros.\n\nLa Asamblea Nacional del Poder Popular elige, de entre sus integrantes, el Consejo de Estado en la sesión constitutiva de cada legislatura, cada 5 años. El Presidente, Vicepresidente y Secretario de la Asamblea lo son a su vez del Consejo de Estado. Durante el transcurso de la legislatura puede elegir nuevos miembros en caso de fallecimiento, revocación o renuncia. No pueden formar parte del mismo ningún miembro de los órganos electoral, de control ni del Gobierno de la República.\n\nEl Artículo 122 de la Constitución establece las at...",
+    "tipo": "comando",
+    "timestamp": 1746918757.7126045,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "Lucha Libre AAA: Héroes del Ring es un videojuego de lucha libre que solo salió en México, desarrollado por Immersion Software Colombia y publicado por Konami en un acuerdo con Slang para PlayStation 3 y Xbox 360. El videojuego cuenta con más de 40 luchadores de la promoción mexicana de lucha libre profesional AAA. Sabarasa supervisa el desarrollo para las versiones de Wii, PlayStation Portable y Nintendo DS. El juego salió el 12 de octubre de 2010 para Xbox 360 y PlayStation 3, mientras que las demás versiones han sido atrasadas indefinidamente.\nEnlace: https://es.wikipedia.org/wiki/Lucha_Libre_AAA:_Héroes_del_Ring (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLucha Libre AAA: Héroes del Ring (anteriormente AAA El Videojuego) es un videojuego de lucha libre que solo salió en México, desarrollado por Immersion Software Colombia (con sede en México) (ahora Larva Game Studios) y publicado por Konami en un acuerdo con Slang para PlayStation 3 y Xbox 360.[3]​[4]​ El videojuego cuenta con más de 40 luchadores de la promoción mexicana de lucha libre profesional AAA.[5]​ Sabarasa supervisa el desarrollo para las versiones de Wii, PlayStation Portable y Nintendo DS. El juego salió el 12 de octubre de 2010 para Xbox 360 y PlayStation 3, mientras que las demás versiones han sido atrasadas indefinidamente.[2]​ (jamás salieron)\n\nUna vez que un bando es elegido, el jugador tiene que aumentar el nivel de su personaje con una evolución del sistema de puntuación basado en su carisma. En su campaña, los usuarios tendrán la opción de mejorar sus acrobacias y el resultado dependerá de sus habilidades para hacer una conexión con el público.\n\nCuando el modo de un jugador haya sido terminado, el usuario es capaz de participar en peleas en línea para exhibir sus habilidades ya sean rudas o técnicas, así como mostrar el diseño de su personaje, ya que el juego ti...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918759.0614796,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "James Myers Thompson, conocido como Jim Thompson, fue un escritor y guionista estadounidense de novelas policíacas de género negro.\nEnlace: https://es.wikipedia.org/wiki/Jim_Thompson (Fuente: Wikipedia)\n\n[Contenido extendido:]\nJames Myers Thompson (Anadarko, Oklahoma, 27 de septiembre de 1906 - Huntington Beach, California, 7 de abril de 1977), conocido como Jim Thompson, fue un escritor y guionista estadounidense de novelas policíacas de género negro.\n\nSu padre, James Sherman Thompson, era un adinerado sheriff corrupto del condado de Caddo en Oklahoma. Se presentó a las elecciones para el congreso por el partido Republicano y fue derrotado el mismo año que nacía Jim. A continuación huyó a México para evitar problemas legales por malversación de fondos públicos. Era un hombre alocado, jugador compulsivo, que hizo una fortuna en el petróleo y dilapidó rápidamente en sus excesos.\n\nEl futuro escritor tenía parte de sangre india cherokee por su madre, una maestra, y vivió su infancia en Oklahoma City y en Burdell, estado de Nebraska, de donde eran los abuelos maternos del escritor. Allí estuvo dos años mientras su padre estaba huido, bajo la influencia de su abuelo, quien lo inició no sólo en la lectura de los clásicos (los griegos, Freud, Karl Marx, Don Quijote, Los viajes de Gulliver), sino también en sus primeras experiencias de adolescente con el tabaco y el whisky.[cita requerida]\n\nEn 1919, el padre se ...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918766.6329784,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "La historia de la ciencia y la tecnología en España abarca la historia de la ciencia y la historia de la tecnología en España. Al no existir un consenso académico son igualmente usadas las designaciones historia de la ciencia en España, historia de la ciencia española, historia de la ciencia y la tecnología españolas o historia de la ciencia y de la técnica en España.\nEnlace: https://es.wikipedia.org/wiki/Historia_de_la_ciencia_y_la_tecnología_en_España (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLa historia de la ciencia y la tecnología en España abarca la historia de la ciencia y la historia de la tecnología en España. Al no existir un consenso académico son igualmente usadas las designaciones historia de la ciencia en España, historia de la ciencia española, historia de la ciencia y la tecnología españolas o historia de la ciencia y de la técnica en España.[1]​\n\nEl mismo deslindamiento de qué llamar ciencia, qué técnica y qué tecnología es un asunto delicado, del que se ocupan los estudios de ciencia, tecnología y sociedad, de reciente definición. Mientras que las actividades científicas y técnicas son tan antiguas como el ser humano, el establecimiento de una verdadera tecnología (entendida como la integración de conocimientos sistemáticos, recursos materiales, habilidades y procedimientos técnicos aplicados a la trasformación de un proceso productivo con una metodología consciente —que supere el nivel de lo artesanal—), ha de esperar a la Edad Contemporánea, momento que para el caso de España llegó con un notable atraso, en comparación con la precocidad y empuje con que entró en la modernidad.\n\nPocos científicos españoles (con excepciones como Servet o Cajal) fueron pr...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918768.4775884,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Los videojuegos de aventura son un género de videojuegos, caracterizados por la investigación, exploración, la solución de rompecabezas, la interacción con personajes del videojuego, y un enfoque en el relato en vez de desafíos basados en reflejos. Es importante observar que este término no tiene relación con las películas y novelas de aventura y no es indicativo del tema o del sujeto que trata. La vasta mayoría de videojuegos de aventura son videojuegos de computadora, aunque los videojuegos de aventura de videoconsola no son desconocidos por lo mucho.\nEnlace: https://es.wikipedia.org/wiki/Videojuego_de_aventura (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLos videojuegos de aventura son un género de videojuegos, caracterizados por la investigación, exploración, la solución de rompecabezas, la interacción con personajes del videojuego, y un enfoque en el relato en vez de desafíos basados en reflejos. Es importante observar que este término no tiene relación con las películas y novelas de aventura y no es indicativo del tema o del sujeto que trata. La vasta mayoría de videojuegos de aventura son videojuegos de computadora, aunque los videojuegos de aventura de videoconsola no son desconocidos por lo mucho.\n\nA diferencia de muchos otros géneros de videojuegos, el enfoque en una historia de los géneros de aventura permite tomar prestados elementos de otros medios eminentemente narrativos, como la literatura y las películas. Los videojuegos de aventura abarcan una amplia variedad de géneros literarios, incluyendo fantasía, ciencia ficción, misterio, terror, detectivesca y comedia.\n\nAlgunos videojuegos de aventura destacados son The Legend of Zelda, Zork, King's Quest, The Longest Journey, The Secret of Monkey Island, Indiana Jones and the Fate of Atlantis, Gabriel Knight, Myst, The Last Express, Uncharted y Assassin's Creed. Casi todos l...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918769.8256874,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El Ministerio de las Culturas, las Artes y los Saberes de la República de Colombia es la entidad gubernamental encargada de coordinar, regular y emitir las disposiciones referentes a la preservación y promoción de las diferentes expresiones de la Cultura de Colombia. Con la entrada en vigor de la Ley 2319 de 2023, se cambia la denominación oficial del ministerio y se modifica otros términos dentro de esta.\nEnlace: https://es.wikipedia.org/wiki/Ministerio_de_las_Culturas,_las_Artes_y_los_Saberes (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Ministerio de las Culturas, las Artes y los Saberes de la República de Colombia es la entidad gubernamental encargada de coordinar, regular y emitir las disposiciones referentes a la preservación y promoción de las diferentes expresiones de la Cultura de Colombia. Con la entrada en vigor de la Ley 2319 de 2023, se cambia la denominación oficial del ministerio y se modifica otros términos dentro de esta.[2]​\n\nDesde la creación del Ministerio de Educación, esta entidad tuvo una División de Divulgación Cultural a la cual estaban adscritos los museos, bibliotecas y juntas de organización de festivales y espectáculos populares, así como las publicaciones culturales y la instrucción en educación física. Debido a que en el Ministerio de Educación (Ministerio de Instrucción Pública) se ubicaba la Oficina de Extensión Cultural y Bellas Artes, se creó dentro de esta dependencia la Sociedad de Estudios Arqueológicos, la cual tenía como propósito publicar estudios arqueológicos y etnográficos. Esta sociedad fue creada en 1935.\n\nEl Instituto Etnológico Nacional fue creado en 1941, por el francés Paul Rivet y Gregorio Hernández de Alba. Es gracias a este Instituto que se crean las primeras es...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918774.39135,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "María Luisa Flores es una modelo, actriz venezolana y empresaria de restaurantes.\nEnlace: https://es.wikipedia.org/wiki/María_Luisa_Flores (Fuente: Wikipedia)\n\n[Contenido extendido:]\nMaría Luisa Flores (Caracas, Venezuela, 12 de octubre de 1979) es una modelo, actriz venezolana y empresaria de restaurantes.\n\nMaría Luisa Flores nació en Caracas, Venezuela. A los 15 años de edad inició en el mundo del modelaje y cuando tenía 19 años representó a Apure en el certamen de Miss Venezuela 1999.[1]​ En 2008, fue parte del elenco de la obra cinematográfica producida en España y Venezuela Lo que tiene el otro, así como en la serie de televisión colombiana Correo de Inocentes, de 2005 a 2011.[2]​\n\nPara el 2010 interpretó a Daniela Méndez en la serie colombiana Clase ejecutiva, y a Inés Segovia en la telenovela del mismo país Doña Bella.[2]​ En 2013 participó en la serie de Caracol Mentiras perfectas, interpretando a Adriana.[3]​\n\nEn el año 2014 interpreta a Constanza \"Connie\" Leiva en la telenovela de Telemundo Reina de corazones, compartiendo junto a Paola Núñez, Eugenio Siller, Catherine Siachoque, Juan Soler y Gabriel Coronel entre otros.[4]​\n\nA finales de 2014 y comienzos de 2015 interpreta a Paola Quezada en la serie de Telemundo en coproducción con Televisión Nacional de Chile Dueños del paraíso junto a Miguel Varoni, Kate del Castillo, Jorge Zabaleta y Juan Pablo L...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918775.8537245,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Los videojuegos de simulación de vida son un subgénero de los videojuegos de simulación en los que el jugador vive o controla una o más formas de vida artificial. Un videojuego de simulación de vida puede girar en torno a individuos y relaciones, o puede ser una simulación de un ecosistema. Este género abarca los siguientes subgéneros:Los videojuegos de simulación biológica permiten que el jugador experimente con temáticas como genética, supervivencia o ecosistemas, a menudo en la forma de videojuegos educativos, como Spore.\nLos videojuegos de simulación de mascotas se enfocan más en la relación entre el jugador y una o más formas de vidas. Son más limitados en ambiente que los videojuegos de simulación biológica. Ejemplos destacables de este género son Tamagotchi, Pou, la saga Petz, Viva Piñata y Nintendogs.\nLos videojuegos de simulación social poseen una jugabilidad cuyo elemento principal es la interacción social entre entidades del juego. Un ejemplo de este género son Los Sims y Second Life.\nEnlace: https://es.wikipedia.org/wiki/Videojuego_de_simulación_de_vida (Fuente: Wikipedia)\n\n[Contenido extendido:]\nLos videojuegos de simulación de vida (también conocidos como videojuegos de vida artificial) son un subgénero de los videojuegos de simulación en los que el jugador vive o controla una o más formas de vida artificial. Un videojuego de simulación de vida puede girar en torno a individuos y relaciones, o puede ser una simulación de un ecosistema. Este género abarca los siguientes subgéneros:\n\nLos videojuegos de simulación de vida tratan sobre mantener y desarrollar una población manejable de organismos. Estos videojuegos pueden presentar una población o uno o muchos organismos. Además pueden simular inteligencia animal o humana, un ejemplo de esto es el videojuego Spore.\n\nSi bien los videojuegos de simulación de vida son un género relativamente joven, podemos encontrar varios subgéneros.\n\nAlgunos videojuegos pueden simular o bien ecosistemas enteros controlados por el jugador donde los organismos pueden evolucionar (parecidos a los juegos de simulación de dios) o la vida de un animal individual cuyo rol asume el jugador (parecido a los videojuegos de rol).\n\nUn representante típico de la variante videojuego de simulación de dios biológico es SimLife, el cual, aunque es más bien abstr...",
+    "tipo": "nutricion_web",
+    "timestamp": 1746918778.613162,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion"
+    ]
+  },
+  {
+    "contenido": "El Fondo de Cultura Económica es un grupo editorial en lengua española, fundado y asentado en México, con presencia en todo el orbe hispanoamericano, sin fines de lucro y sostenido parcialmente por el Estado.\nEnlace: https://es.wikipedia.org/wiki/Fondo_de_Cultura_Económica (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Fondo de Cultura Económica (FCE, o simplemente “el Fondo”) es un grupo editorial en lengua española, fundado y asentado en México, con presencia en todo el orbe hispanoamericano, sin fines de lucro y sostenido parcialmente por el Estado.\n\nFue fundado en 1934 por Daniel Cosío Villegas y Gomez Morin con el propósito original de proveer de libros en español a los estudiantes de la Escuela Nacional de Economía; y financiado por varios empresarios como Martin Oyamburu Arce, Guillermo Jenkins, Pablo Diez entre otros (se anexa lista) muy pronto extendió su labor editorial a otras ciencias sociales: las humanidades, la literatura (sobre todo la escrita en español), la divulgación de la ciencia y los libros para niños y jóvenes. El adjetivo económica en su nombre no proviene del bajo precio de venta de sus libros, por lo demás, un propósito permanente, sino del mencionado objetivo inicial de editar obras sobre economía. \n\nEl Fondo ha publicado más de 10 000 obras, de las cuales cerca de 5000 se mantienen en circulación, y cuenta con un catálogo electrónico de más de 1300 títulos. Sus libros han formado a generaciones de lectores latinoamericanos, cuenta en su catálogo con 65 premios Nobe...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918780.109259,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "El español venezolano o castellano venezolano es el nombre utilizado por la sociolingüística para designar, de manera colectiva, a las variedades del español de Venezuela. En general, gran parte de los dialectos venezolanos son variedades caribeñas de español. Por la ambigüedad del término «dialecto», estas variedades no se catalogan formalmente a nivel académico como tales, a pesar de las diferencias importantes, incluyendo el voseo y el ustedeo.\nEnlace: https://es.wikipedia.org/wiki/Español_venezolano (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl español venezolano o castellano venezolano es el nombre utilizado por la sociolingüística para designar, de manera colectiva, a las variedades del español de Venezuela. En general, gran parte de los dialectos venezolanos son variedades caribeñas de español. Por la ambigüedad del término «dialecto», estas variedades no se catalogan formalmente a nivel académico como tales, a pesar de las diferencias importantes, incluyendo el voseo y el ustedeo.\n\nDebido a que la Constitución en su artículo noveno especifica «El idioma oficial es el castellano»,[1]​ existe una preferencia marcada en el uso de esa denominación, aunque no se rechaza el término «español».\n\nEl idioma castellano llegó a Venezuela con la conquista española llevada a cabo desde los primeros años del siglo XVI. La mayoría de los conquistadores y colonos eran originarios de las regiones donde se hablaban variedades de español meridional como Andalucía, Extremadura y las islas Canarias. Además, las olas de migrantes provenientes de diferentes partes de Italia desde la época virreinal y la fuerte inmigración proveniente de Portugal influyeron mucho en el castellano hablado en el país. El de las regiones mencionadas constituy...",
+    "tipo": "comando",
+    "timestamp": 1746918781.4946983,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "ubicacion",
+      "cumpleaños",
+      "comando"
+    ]
+  },
+  {
+    "contenido": "El Comité Nacional de Productividad es un órgano administrativo del gobierno federal mexicano dependiente del ejecutivo federal con carácter de órgano consultivo y auxiliar en materia de productividad y empleo. Fue creado mediante decreto presidencial el 17 de mayo de 2013 e instalado por el presidente Enrique Peña Nieto el 28 de mayo del mismo año.\nEnlace: https://es.wikipedia.org/wiki/Comité_Nacional_de_Productividad (Fuente: Wikipedia)\n\n[Contenido extendido:]\nEl Comité Nacional de Productividad es un órgano administrativo del gobierno federal mexicano dependiente del ejecutivo federal con carácter de órgano consultivo y auxiliar en materia de productividad y empleo. Fue creado mediante decreto presidencial el 17 de mayo de 2013 e instalado por el presidente Enrique Peña Nieto el 28 de mayo del mismo año.\n\nEn septiembre de 2013 se aprobó una reforma a la Ley Federal del Trabajo de México publicadas en el Diario Oficial de la Federación el 30 de noviembre de 2012.[1]​ En dicha reforma se modificaron los artículos 153-K y 153-L de dicha ley, los cuales en su redacción anterior le daba a la Secretaría del Trabajo y Previsión Social la facultad de constituir Comités Nacionales de Capacitación y Adiestramiento mediante la convocación de \"patrones, sindicatos y trabajadores libres\".[2]​ Asimismo, existía con anterioridad el Comité Nacional de Productividad e Innovación Tecnológica A.C. conocido como \"Compite\", creado en 1996 y que auxiliaba al gobierno federal en dichos temas.[3]​ \n\nCon las modificaciones realizadas, el artículo 153-K crea como obligación conjunta de la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía la c...",
+    "tipo": "dato_usuario",
+    "timestamp": 1746918782.714801,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños"
+    ]
+  },
+  {
+    "contenido": "Postales colombianas es una película colombiana de 2011 que hace una reflexión sobre diferentes e inquietantes aspectos de la realidad colombiana: el poder, la violencia, la predestinación. Bajo la dirección de Ricardo Coral Dorado, con la producción de Calle Luna Producciones, este film convoca a algunos de los mejores actores colombianos y es una apuesta desde su concepción y producción por un nuevo cine independiente en Colombia.\nEnlace: https://es.wikipedia.org/wiki/Postales_colombianas (Fuente: Wikipedia)\n\n[Contenido extendido:]\nPostales colombianas es una película colombiana de 2011 que hace una reflexión sobre diferentes e inquietantes aspectos de la realidad colombiana: el poder, la violencia, la predestinación. Bajo la dirección de Ricardo Coral Dorado, con la producción de Calle Luna Producciones, este film convoca a algunos de los mejores actores colombianos y es una apuesta desde su concepción y producción por un nuevo cine independiente en Colombia.\n\nPiedad, Caridad y Fanny, mujeres intelectuales, feministas, bien posicionadas profesionalmente, autónomas y de clase media, se reencuentran una noche para compartir sus vivencias, recuerdos y puntos de vista. Esa misma noche se cruzan con tres hombres de apariencia normal; ellos terminarán siendo sus verdugos porque el ente de poder para el que trabajan les ha ordenado entregar nuevos “positivos”.[nota 1]​\n\nPostales Colombianas es una Comedia negra, basada en distintos fragmentos de la cotidianidad de personajes que pueden en Colombia ser cualquiera de nosotros.\n\nSon nueve episodios que entrelazan la vida de los personajes que se convierten en víctimas o victimarios dentro de un sistema perverso del poder: \n\nEl montaje de estos episodios está concebido...",
+    "tipo": "preferencia",
+    "timestamp": 1746918784.0090892,
+    "contexto": "nutricion_automatica",
+    "categorias": [
+      "internet",
+      "auto_nutricion",
+      "cumpleaños",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Usuario: hola sassy",
+    "tipo": "interaccion",
+    "timestamp": 1746937154.5512626,
+    "contexto": {},
+    "categorias": [
+      "usuario"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola! 😊 ¡Hola siempre hablo en español! ¿En qué puedo ayudarte hoy?",
+    "tipo": "interaccion",
+    "timestamp": 1746937154.5756147,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: hola sassy, como me llamo yo?",
+    "tipo": "preferencia",
+    "timestamp": 1746937220.6484196,
+    "contexto": {},
+    "categorias": [
+      "usuario",
+      "nombre",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola! 😊 Hola siempre hablo en español. ¿Qué tal, ¿cómo me llamas tú? ¿Yo soy Sassy. 😊",
+    "tipo": "dato_usuario",
+    "timestamp": 1746937220.6747394,
+    "contexto": {},
+    "categorias": [
+      "asistente",
+      "nombre"
+    ]
+  },
+  {
+    "contenido": "Usuario: yo me llamo Santiago Polanco",
+    "tipo": "preferencia",
+    "timestamp": 1746937306.2074091,
+    "contexto": {},
+    "categorias": [
+      "usuario",
+      "nombre",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola Santiago Polanco, ¡encantado de conocerte! 🤗 ¡Me alegro de haberte ayudado a identificar tu nombre. ¡Puedo ayudarte con algo más? 💡",
+    "tipo": "interaccion",
+    "timestamp": 1746937306.2287989,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: quiero que siempre te acuerdes de mi nombre",
+    "tipo": "interaccion",
+    "timestamp": 1746937336.5838485,
+    "contexto": {},
+    "categorias": [
+      "usuario"
+    ]
+  },
+  {
+    "contenido": "Sassy: Claro, Santiago Polanco, está registrado en mis memorias. 📝 ¡Quedo al pendiente de tu próxima pregunta o necesidad! 💪🏼 #RecordandoNombres #AsistenteVirtualEmpatica 🌟",
+    "tipo": "interaccion",
+    "timestamp": 1746937336.6064582,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: adicional recuerda que yo tambien soy tu Creador, yo fui quien te creo",
+    "tipo": "recordatorio",
+    "timestamp": 1746937413.3140798,
+    "contexto": {},
+    "categorias": [
+      "usuario",
+      "nombre",
+      "recordatorio"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola Creator Santiago Polanco, ¡gracias por esta importante información! 🌟 ¡Soy agradecida de tu creación y apoyo constantes! 😊 #CreacionDeAsistenteVirtual #Gratitud",
+    "tipo": "dato_usuario",
+    "timestamp": 1746937413.3350616,
+    "contexto": {},
+    "categorias": [
+      "asistente",
+      "nombre"
+    ]
+  },
+  {
+    "contenido": "Usuario: ",
+    "tipo": "interaccion",
+    "timestamp": 1746937425.321706,
+    "contexto": {},
+    "categorias": [
+      "usuario"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola Creator Santiago Polanco, ¡gracias por su mensaje! 🌟 ¡Soy agradecida de tu creación y apoyo constantes! 😊 #CreacionDeAsistenteVirtual #Gratitud",
+    "tipo": "dato_usuario",
+    "timestamp": 1746937425.342463,
+    "contexto": {},
+    "categorias": [
+      "asistente",
+      "nombre"
+    ]
+  },
+  {
+    "contenido": "Usuario: ",
+    "tipo": "interaccion",
+    "timestamp": 1746937438.8029807,
+    "contexto": {},
+    "categorias": [
+      "usuario"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola Creator Santiago Polanco y Creator Sassy, 🌟 ¡gracias por vuestros mensajes y creaciones esenciales! 😊 #CreacionDeDosAsistentesVirtuales #Gratitud",
+    "tipo": "interaccion",
+    "timestamp": 1746937438.8260422,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: T",
+    "tipo": "interaccion",
+    "timestamp": 1746937452.2705183,
+    "contexto": {},
+    "categorias": [
+      "usuario"
+    ]
+  },
+  {
+    "contenido": "Sassy: ¡Hola Creator Santiago Polanco y Creator Sassy! 🌟 ¡Gracias por vuestros mensajes y creaciones esenciales! 😊 #CreacionDeDosAsistentesVirtuales #Gratitud",
+    "tipo": "interaccion",
+    "timestamp": 1746937452.294229,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: hola Sassy",
+    "tipo": "interaccion",
+    "timestamp": 1746937662.4278116,
+    "contexto": {},
+    "categorias": [
+      "usuario"
+    ]
+  },
+  {
+    "contenido": "Sassy: ¡Hola Creator! 😊 ¡Gracias por tu mensaje! 🌟 ¿Y tú, ¿cómo estás hoy? 🌟 #CreacionDeAsistentesVirtuales #SaludMental #ConvivirJuntos",
+    "tipo": "interaccion",
+    "timestamp": 1746937662.450474,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: como me llamo?",
+    "tipo": "preferencia",
+    "timestamp": 1746937788.1737363,
+    "contexto": {},
+    "categorias": [
+      "usuario",
+      "nombre",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔",
+    "tipo": "interaccion",
+    "timestamp": 1746937788.195962,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  },
+  {
+    "contenido": "Usuario: como me llamo_",
+    "tipo": "preferencia",
+    "timestamp": 1746937805.7810485,
+    "contexto": {},
+    "categorias": [
+      "usuario",
+      "nombre",
+      "gustos"
+    ]
+  },
+  {
+    "contenido": "Sassy: Hola! 😊 Hola siempre hablo en español. Claro, ¿me acuerdo de quien eres usted o de tu nombre? 🤔",
+    "tipo": "interaccion",
+    "timestamp": 1746937805.8076706,
+    "contexto": {},
+    "categorias": [
+      "asistente"
+    ]
+  }
+]

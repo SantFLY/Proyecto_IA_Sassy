@@ -1,0 +1,96 @@
+# =============================================
+# DEPENDENCIAS PRINCIPALES
+# =============================================
+# OpenAI API para procesamiento de lenguaje
+openai==1.12.0
+# Manejo de variables de entorno
+python-dotenv==1.0.0
+# Síntesis de voz
+pyttsx3==2.90
+# Reconocimiento de voz
+SpeechRecognition==3.10.0
+# Utilidades de fecha y hora
+python-dateutil==2.8.2
+# Monitoreo del sistema
+psutil==5.9.8
+# Procesamiento de lenguaje natural (usando versión precompilada)
+--find-links https://download.pytorch.org/whl/torch_stable.html
+sentence-transformers==2.2.2
+# Búsqueda de similitud vectorial (usando versión precompilada)
+--find-links https://download.pytorch.org/whl/torch_stable.html
+faiss-cpu==1.7.4
+# Computación numérica
+numpy>=1.21.0
+
+# =============================================
+# GUI Y VISUALIZACIÓN
+# =============================================
+# Framework GUI principal
+PyQt5==5.15.9
+# Framework GUI moderno
+PySide6>=6.8.0
+# Gráficos 3D
+PyOpenGL==3.1.7
+# Widgets modernos para PyQt
+PyQt-Fluent-Widgets[full]
+
+# =============================================
+# SEGURIDAD Y ANÁLISIS
+# =============================================
+# Análisis de malware
+yara-python>=4.3.0
+# Detección de tipos de archivo (usando versión precompilada)
+python-magic-bin>=0.4.14; platform_system=="Windows"
+python-magic>=0.4.27; platform_system!="Windows"
+# Análisis de archivos PE
+pefile>=2023.2.7
+# Integración con Windows (solo Windows)
+pywin32>=306; platform_system=="Windows"
+# Geolocalización IP
+geoip2>=4.7.0
+# Peticiones HTTP
+requests>=2.31.0
+
+# =============================================
+# PROCESAMIENTO DE DATOS
+# =============================================
+# Análisis de datos
+pandas>=1.3.0
+# Machine Learning
+scikit-learn>=0.24.0
+# Modelos de lenguaje (usando versión precompilada)
+--find-links https://download.pytorch.org/whl/torch_stable.html
+transformers>=4.30.0
+# Deep Learning (usando versión precompilada)
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch>=2.0.0
+# Procesamiento de lenguaje natural
+nltk>=3.8.1
+
+# =============================================
+# UTILIDADES
+# =============================================
+# Barras de progreso
+tqdm>=4.65.0
+# Colores en consola
+colorama>=0.4.6
+# Formato enriquecido en consola
+rich>=13.0.0
+# Logging avanzado
+loguru>=0.7.0
+# Logging en formato JSON
+python-json-logger>=2.0.7
+
+# =============================================
+# TESTING Y DESARROLLO
+# =============================================
+# Framework de testing
+pytest>=7.0.0
+# Cobertura de código
+pytest-cov>=4.1.0
+# Formateador de código
+black>=23.0.0
+# Organizador de imports
+isort>=5.12.0
+# Linter
+flake8>=6.0.0

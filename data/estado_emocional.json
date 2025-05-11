@@ -1,0 +1,332 @@
+{
+  "nombre": "neutral",
+  "intensidad": 0.5,
+  "emoji": "😐",
+  "historial": [
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746799991.768143,
+      "entrada": "abrir valoranr"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802081.7016175,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802232.9476,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802387.8827307,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802522.993975,
+      "entrada": "hola sassy como estas"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802656.2173762,
+      "entrada": "hola sissy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802756.9769166,
+      "entrada": "hola"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802786.1447499,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802911.7842796,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746802936.4801724,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803040.7595892,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803156.911002,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803284.726324,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803427.7016065,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803440.336027,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803745.0520046,
+      "entrada": "hola sassy como  estas?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746803765.047201,
+      "entrada": "hola sassy como  estas?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746804894.078657,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746804913.261639,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746804934.022606,
+      "entrada": "porfavor recuerda hablarme siempre en español"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746804954.1365077,
+      "entrada": "porfavor recuerda hablarme siempre en español"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746804966.9820154,
+      "entrada": "sabes quien soy yo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746804992.4642072,
+      "entrada": "sabes quien soy yo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805778.6581264,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805804.6112843,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805846.2656174,
+      "entrada": "hola hablame en español siempre"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805874.9206748,
+      "entrada": "hola hablame en español siempre"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805895.185495,
+      "entrada": "si yo siempre hablo en español"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805929.6950488,
+      "entrada": "si yo siempre hablo en español"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746805949.4409583,
+      "entrada": "sabes decir algo mas?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806033.311746,
+      "entrada": "sabes decir algo mas?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806495.8777235,
+      "entrada": "hola sassy hablame siempre en español"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806515.1958063,
+      "entrada": "hola sassy hablame siempre en español"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806531.7973678,
+      "entrada": "sabes quien soy yo o como me llamo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806548.8338683,
+      "entrada": "sabes quien soy yo o como me llamo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806570.533173,
+      "entrada": "yo soy Santiago Polanco y soy tu creador"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806595.0924134,
+      "entrada": "yo soy Santiago Polanco y soy tu creador"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806625.7328203,
+      "entrada": "quiero que almacenes toda la informacion y nunca lo olvides"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806666.446003,
+      "entrada": "quiero que almacenes toda la informacion y nunca lo olvides"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806693.484348,
+      "entrada": "perfecto, te quiero"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806891.403419,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806891.562447,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806898.0992823,
+      "entrada": "vale"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806898.1360202,
+      "entrada": "vale"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806992.0668583,
+      "entrada": "hola sassy como me llamo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746806992.2053761,
+      "entrada": "hola sassy como me llamo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746807299.7933404,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746807299.9306135,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746807552.9042735,
+      "entrada": "hola sassy como me llamo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746807608.1140485,
+      "entrada": "hola sassy como me llamo?"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746865878.692486,
+      "entrada": "hola sassy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746865916.2197924,
+      "entrada": "te acuerdas como me se llama tu creador"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746923231.9194095,
+      "entrada": "hola sasy"
+    },
+    {
+      "estado": "neutral",
+      "intensidad": 0.5,
+      "timestamp": 1746923242.7993417,
+      "entrada": "sassy_"
+    }
+  ],
+  "patrones": {}
+}

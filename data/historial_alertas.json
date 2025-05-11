@@ -1,0 +1,556 @@
+{
+    "seguridad": [
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:18:10.623921"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:18:10.624811"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:19:12.922425"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:19:12.922876"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:19:12.923261"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:23:34.731967"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:23:34.763967"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:31:10.151581"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:31:10.167519"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:32:14.773784"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:32:14.774429"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:32:14.775729"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:33:16.861871"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:33:16.862495"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:33:16.862942"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:33:16.863359"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:53:35.778085"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T03:53:35.778938"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:05:47.465444"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:05:47.482371"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:10:02.625311"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:10:02.720547"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:23:53.102359"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:23:53.117822"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:25:24.103367"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:25:24.172029"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:25:24.192688"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:26:26.366935"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:26:26.367878"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:26:26.370097"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:26:26.371762"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:27:19.054238"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:27:19.054910"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:30:24.210986"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:30:24.395127"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:35:31.692435"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:35:31.873708"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:39:33.859696"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:39:34.098529"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:40:36.350406"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:40:36.351216"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:40:36.351930"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:41:38.560799"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:41:38.561771"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:41:38.562681"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:41:38.563567"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:44:45.362861"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:44:45.600015"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:45:47.880674"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:45:47.881958"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:45:47.885255"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:46:50.180615"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:46:50.189835"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:46:50.195134"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:46:50.198608"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:53:41.854024"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:53:41.855771"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:55:02.938328"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:55:02.939242"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:56:04.999994"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:56:05.004258"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T04:56:05.006383"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:02:10.854748"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:02:10.855703"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:05:22.986424"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:05:22.987394"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión sospechosa detectada: addr(ip='87.250.250.90', port=443) (País: Russia)",
+            "valor": "addr(ip='87.250.250.90', port=443)",
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:06:25.071236"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:06:25.072313"
+        },
+        {
+            "tipo": "seguridad",
+            "mensaje": "Conexión a país de riesgo: 87.250.250.90 (Russia)",
+            "valor": null,
+            "umbral": null,
+            "tendencia": null,
+            "timestamp": "2025-05-10T05:06:25.110167"
+        }
+    ]
+}

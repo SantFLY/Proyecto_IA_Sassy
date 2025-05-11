@@ -1,0 +1,3 @@
+"""
+Núcleo principal de Sassy.
+""" 
